@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bj_zj_titou",
+    "texture": "a4d02ef7-323a-4ff6-9790-177d4524c7c0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1082,
+      331
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1082,
+      331
+    ]
+  }
+}

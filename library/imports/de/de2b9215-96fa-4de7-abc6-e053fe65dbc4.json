@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "biankuang",
+    "texture": "e0cc17fb-3c7f-4824-bd96-aa555fa0de99",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      122
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      122
+    ],
+    "capInsets": [
+      37,
+      33,
+      37,
+      34
+    ]
+  }
+}

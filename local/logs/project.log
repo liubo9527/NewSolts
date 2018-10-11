@@ -1,0 +1,1218 @@
+2017-12-08T08:58:32.479Z - normal: Load ~/.CocosCreator/settings.json
+2017-12-08T08:58:32.484Z - normal: checking language setting...
+2017-12-08T08:58:32.484Z - normal: Language: zh
+2017-12-08T08:58:33.188Z - success: protocol editor-framework registered
+2017-12-08T08:58:33.188Z - success: protocol app registered
+2017-12-08T08:58:33.188Z - success: protocol theme registered
+2017-12-08T08:58:33.188Z - success: protocol profile registered
+2017-12-08T08:58:33.188Z - success: protocol packages registered
+2017-12-08T08:58:33.191Z - success: protocol unpack registerred
+2017-12-08T08:58:33.191Z - success: protocol disable-commonjs registerred
+2017-12-08T08:58:33.398Z - normal: connected!
+2017-12-08T08:58:33.401Z - normal: Check project /Users/liubo/Desktop/NewSlots
+2017-12-08T08:58:33.403Z - normal: Initializing Cocos2d
+2017-12-08T08:58:33.592Z - normal: Initializing Asset Database
+2017-12-08T08:58:33.620Z - success: protocol uuid registerred
+2017-12-08T08:58:33.620Z - success: protocol db registerred
+2017-12-08T08:58:33.620Z - success: protocol thumbnail registerred
+2017-12-08T08:58:33.620Z - normal: Loading editor/builtin packages
+2017-12-08T08:58:33.639Z - success: anysdk loaded
+2017-12-08T08:58:33.765Z - success: assets loaded
+2017-12-08T08:58:33.769Z - success: builder loaded
+2017-12-08T08:58:33.773Z - success: hierarchy loaded
+2017-12-08T08:58:33.777Z - success: inspector loaded
+2017-12-08T08:58:33.779Z - success: keystore loaded
+2017-12-08T08:58:33.783Z - success: node-library loaded
+2017-12-08T08:58:33.784Z - success: package-asset loaded
+2017-12-08T08:58:33.786Z - success: preferences loaded
+2017-12-08T08:58:33.790Z - success: project-exporter loaded
+2017-12-08T08:58:33.803Z - success: project-importer loaded
+2017-12-08T08:58:33.807Z - success: project-settings loaded
+2017-12-08T08:58:33.810Z - success: ui-kit loaded
+2017-12-08T08:58:33.815Z - success: ui-grid loaded
+2017-12-08T08:58:33.822Z - success: scene loaded
+2017-12-08T08:58:33.823Z - success: sprite-editor loaded
+2017-12-08T08:58:33.829Z - success: store loaded
+2017-12-08T08:58:33.834Z - success: timeline loaded
+2017-12-08T08:58:33.835Z - normal: Loading builtin packages
+2017-12-08T08:58:33.839Z - success: asset-db-debugger loaded
+2017-12-08T08:58:33.839Z - success: color-picker loaded
+2017-12-08T08:58:33.844Z - success: console loaded
+2017-12-08T08:58:33.847Z - success: package-manager loaded
+2017-12-08T08:58:33.852Z - success: sdkbox loaded
+2017-12-08T08:58:33.855Z - success: tester loaded
+2017-12-08T08:58:33.859Z - success: ui-kit-preview-extra loaded
+2017-12-08T08:58:33.863Z - success: ui-kit-preview loaded
+2017-12-08T08:58:33.866Z - success: ui-tree loaded
+2017-12-08T08:58:34.681Z - normal: Initializing project /Users/liubo/Desktop/NewSlots
+2017-12-08T08:58:34.684Z - normal: Loading packages
+2017-12-08T08:58:34.690Z - normal: Watching packages
+2017-12-08T08:58:34.702Z - normal: Run Application
+2017-12-08T08:58:35.539Z - success: preview server running at http://localhost:7456
+2017-12-08T08:58:41.532Z - normal: 1.6.1
+2017-12-08T08:58:46.639Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 695.00
+2017-12-08T08:58:46.640Z - normal: Simulator: FRAME SCALE = 0.25
+2017-12-08T08:58:46.640Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2017-12-08T08:58:46.641Z - normal: Simulator: 
+2017-12-08T08:58:46.641Z - normal: Simulator: {
+2017-12-08T08:58:46.642Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-12-08T08:58:46.642Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-12-08T08:58:46.643Z - normal: Simulator: 	cocos2d.x.version: 1.6.1
+2017-12-08T08:58:46.643Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2017-12-08T08:58:46.643Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-12-08T08:58:46.644Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2017-12-08T08:58:46.644Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-12-08T08:58:46.645Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-12-08T08:58:46.646Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-12-08T08:58:46.647Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-12-08T08:58:46.649Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-12-08T08:58:46.650Z - normal: Simulator: 	gl.max_texture_units: 16
+2017-12-08T08:58:46.650Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-12-08T08:58:46.651Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-12-08T08:58:46.651Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-12-08T08:58:46.651Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.17
+2017-12-08T08:58:46.652Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-12-08T08:58:46.652Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-12-08T08:58:46.652Z - normal: Simulator: }
+2017-12-08T08:58:46.653Z - normal: Simulator: 
+2017-12-08T08:58:46.653Z - normal: Simulator: 
+2017-12-08T08:58:46.653Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-12-08T08:58:46.653Z - normal: Simulator: Project Config:
+2017-12-08T08:58:46.654Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2017-12-08T08:58:46.655Z - normal: Simulator:     writable path: $(PROJDIR)/
+2017-12-08T08:58:46.655Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2017-12-08T08:58:46.656Z - normal: Simulator:     frame size: 1080 x 1660
+2017-12-08T08:58:46.656Z - normal: Simulator:     frame scale: 0.25
+2017-12-08T08:58:46.656Z - normal: Simulator:     show console: NO
+2017-12-08T08:58:46.656Z - normal: Simulator:     write debug log: NO ()
+2017-12-08T08:58:46.657Z - normal: Simulator:     listen: 
+2017-12-08T08:58:46.657Z - normal: Simulator:     debugger: none
+2017-12-08T08:58:46.657Z - normal: Simulator:     add searching path:
+2017-12-08T08:58:46.658Z - normal: Simulator: ------------------------------------------------
+2017-12-08T08:58:46.658Z - normal: Simulator: LOAD Js FILE: main.js
+2017-12-08T08:58:46.659Z - normal: Simulator: ------------------------------------------------
+2017-12-08T08:58:46.660Z - normal: Simulator: Cocos2d-x-lite v1.6.0
+2017-12-08T08:58:46.661Z - normal: Simulator: iShow!
+2017-12-08T08:58:47.320Z - normal: Simulator: InitScene: 43.777000000000044ms
+2017-12-08T08:58:47.321Z - normal: Simulator: AutoRelease: 0.7449999999998909ms
+2017-12-08T08:58:47.322Z - normal: Simulator: Destroy: 0.08500000000003638ms
+2017-12-08T08:58:47.323Z - normal: Simulator: AttachPersist: 0.010999999999967258ms
+2017-12-08T08:58:47.639Z - normal: Simulator: jb=true
+2017-12-08T08:58:47.640Z - normal: Simulator: this.gameToken = 88c8afd5a29d5e27e4066f1f9eda5102-12-1576-2999
+2017-12-08T08:58:47.640Z - normal: Simulator: this.headerToken = 3709660283
+2017-12-08T08:58:47.641Z - normal: Simulator: request-----------data = {}
+2017-12-08T08:58:47.641Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:58:47.642Z - normal: Simulator: In the constructor of HttpClient!
+2017-12-08T08:58:47.642Z - normal: Simulator: 没有走淘宝SDK
+2017-12-08T08:58:47.688Z - normal: Simulator: Activate: 333.0150000000003ms
+2017-12-08T08:58:47.874Z - normal: Simulator: ny=-2161
+2017-12-08T08:58:48.132Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:58:48.138Z - normal: Simulator: data = {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":[],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"1200","date":1512460638716,"msg":"恭喜玩家#{user} 中1200豆","payAmount":"500","type":"0","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/16:58:47:489","poolBouns":92166049,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}, cmd = 100
+2017-12-08T08:58:48.139Z - normal: Simulator: {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":[],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"1200","date":1512460638716,"msg":"恭喜玩家#{user} 中1200豆","payAmount":"500","type":"0","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/16:58:47:489","poolBouns":92166049,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}
+2017-12-08T08:58:48.139Z - normal: Simulator: marqueeInfos恭喜玩家#{user} 中1200豆
+2017-12-08T08:58:48.140Z - normal: Simulator: netCallback cmd=100es=0msg=success
+2017-12-08T08:58:48.147Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T08:58:48.149Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T08:58:48.151Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T08:58:48.179Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T08:58:48.180Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T08:58:48.180Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T08:58:48.181Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T08:58:48.181Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T08:58:48.184Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T08:58:48.185Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T08:58:48.186Z - normal: Simulator: skinssssssss
+2017-12-08T08:58:50.253Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:58:50.254Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:58:50.255Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:58:52.324Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:58:52.324Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:58:52.324Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:58:54.353Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:58:54.355Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:58:54.359Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:58:56.416Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:58:56.416Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:58:56.416Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:58:58.442Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:58:58.442Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:58:58.443Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:59:00.489Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:59:00.489Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:59:00.490Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:59:02.526Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:59:02.526Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:59:02.528Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:59:04.567Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:59:04.568Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:59:04.569Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:59:06.611Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:59:06.611Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:59:06.612Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:59:08.665Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:59:08.666Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:59:08.667Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:59:10.694Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:59:10.695Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:59:10.696Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:59:12.732Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:59:12.732Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:59:12.736Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:59:14.779Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:59:14.779Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:59:14.780Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:59:16.819Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:59:16.820Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:59:16.820Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:59:18.862Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:59:18.863Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:59:18.863Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:59:20.900Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:59:20.901Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:59:20.903Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:59:22.942Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:59:22.943Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:59:22.944Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:59:24.986Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:59:24.986Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:59:24.987Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:59:27.035Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:59:27.036Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:59:27.036Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:59:29.155Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T08:59:29.162Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T08:59:29.163Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T08:59:30.790Z - normal: Simulator: HttpClient::destroyInstance begin
+2017-12-08T08:59:30.790Z - normal: Simulator: HttpClient destructor
+2017-12-08T08:59:30.791Z - normal: Simulator: HttpClient::destroyInstance() finished!
+2017-12-08T08:59:30.820Z - normal: Simulator: basic_object_finalize 0x1b2297f0 ...
+2017-12-08T08:59:30.821Z - normal: Simulator: basic_object_finalize 0x1b2444f0 ...
+2017-12-08T08:59:30.821Z - normal: Simulator: basic_object_finalize 0x1b244550 ...
+2017-12-08T08:59:30.821Z - normal: Simulator: basic_object_finalize 0x1b2445b0 ...
+2017-12-08T08:59:30.821Z - normal: Simulator: basic_object_finalize 0x1b244610 ...
+2017-12-08T08:59:30.822Z - normal: Simulator: basic_object_finalize 0x1b244670 ...
+2017-12-08T08:59:30.822Z - normal: Simulator: basic_object_finalize 0x1b2446d0 ...
+2017-12-08T08:59:30.823Z - normal: Simulator: basic_object_finalize 0x1b244730 ...
+2017-12-08T08:59:30.823Z - normal: Simulator: basic_object_finalize 0x1b244790 ...
+2017-12-08T08:59:30.823Z - normal: Simulator: basic_object_finalize 0x1b2447f0 ...
+2017-12-08T08:59:30.824Z - normal: Simulator: basic_object_finalize 0x1b244850 ...
+2017-12-08T08:59:30.824Z - normal: Simulator: basic_object_finalize 0x1b2448b0 ...
+2017-12-08T08:59:30.824Z - normal: Simulator: basic_object_finalize 0x1b244910 ...
+2017-12-08T08:59:30.825Z - normal: Simulator: basic_object_finalize 0x1b244970 ...
+2017-12-08T08:59:30.825Z - normal: Simulator: basic_object_finalize 0x1b2449d0 ...
+2017-12-08T08:59:30.825Z - normal: Simulator: basic_object_finalize 0x1b244a30 ...
+2017-12-08T08:59:30.826Z - normal: Simulator: basic_object_finalize 0x1b244a90 ...
+2017-12-08T08:59:30.826Z - normal: Simulator: basic_object_finalize 0x1b244af0 ...
+2017-12-08T08:59:30.827Z - normal: Simulator: basic_object_finalize 0x1b244b50 ...
+2017-12-08T08:59:30.827Z - normal: Simulator: basic_object_finalize 0x1b244bb0 ...
+2017-12-08T08:59:30.827Z - normal: Simulator: basic_object_finalize 0x1b244c10 ...
+2017-12-08T08:59:30.870Z - normal: Simulator: basic_object_finalize 0x17ee26a0 ...
+2017-12-08T08:59:30.871Z - normal: Simulator: jsbindings: finalizing JS object 0x17ee26d0 (WebSocket)
+2017-12-08T08:59:30.871Z - normal: Simulator: jsbindings: finalizing JS object 0x17ee2700 (SocketIO)
+2017-12-08T08:59:30.872Z - normal: Simulator: JavaScriptObjCBridge_finalize 0x17ee2790 ...
+2017-12-08T08:59:30.872Z - normal: Simulator: JavaScriptObjCBridge_finalize 0x17ee2a00 ...
+2017-12-08T08:59:56.525Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 694.00
+2017-12-08T08:59:56.578Z - normal: Simulator: FRAME SCALE = 0.25
+2017-12-08T08:59:56.579Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2017-12-08T08:59:56.580Z - normal: Simulator: 
+2017-12-08T08:59:56.580Z - normal: Simulator: {
+2017-12-08T08:59:56.581Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-12-08T08:59:56.581Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-12-08T08:59:56.582Z - normal: Simulator: 	cocos2d.x.version: 1.6.1
+2017-12-08T08:59:56.582Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2017-12-08T08:59:56.582Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-12-08T08:59:56.583Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2017-12-08T08:59:56.583Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-12-08T08:59:56.584Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-12-08T08:59:56.584Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-12-08T08:59:56.585Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-12-08T08:59:56.585Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-12-08T08:59:56.586Z - normal: Simulator: 	gl.max_texture_units: 16
+2017-12-08T08:59:56.590Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-12-08T08:59:56.835Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-12-08T08:59:56.837Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-12-08T08:59:56.837Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.17
+2017-12-08T08:59:56.838Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-12-08T08:59:56.838Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-12-08T08:59:56.839Z - normal: Simulator: }
+2017-12-08T08:59:56.839Z - normal: Simulator: 
+2017-12-08T08:59:56.840Z - normal: Simulator: 
+2017-12-08T08:59:56.840Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-12-08T08:59:56.841Z - normal: Simulator: Project Config:
+2017-12-08T08:59:56.841Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2017-12-08T08:59:56.841Z - normal: Simulator:     writable path: $(PROJDIR)/
+2017-12-08T08:59:56.842Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2017-12-08T08:59:56.842Z - normal: Simulator:     frame size: 1080 x 1660
+2017-12-08T08:59:56.842Z - normal: Simulator:     frame scale: 0.25
+2017-12-08T08:59:56.843Z - normal: Simulator:     show console: NO
+2017-12-08T08:59:56.843Z - normal: Simulator:     write debug log: NO ()
+2017-12-08T08:59:56.844Z - normal: Simulator:     listen: 
+2017-12-08T08:59:56.845Z - normal: Simulator:     debugger: none
+2017-12-08T08:59:56.846Z - normal: Simulator:     add searching path:
+2017-12-08T08:59:56.846Z - normal: Simulator: ------------------------------------------------
+2017-12-08T08:59:56.847Z - normal: Simulator: LOAD Js FILE: main.js
+2017-12-08T08:59:56.848Z - normal: Simulator: ------------------------------------------------
+2017-12-08T08:59:56.996Z - normal: Simulator: Cocos2d-x-lite v1.6.0
+2017-12-08T08:59:58.098Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 695.00
+2017-12-08T08:59:58.098Z - normal: Simulator: FRAME SCALE = 0.25
+2017-12-08T08:59:58.099Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2017-12-08T08:59:58.100Z - normal: Simulator: 
+2017-12-08T08:59:58.100Z - normal: Simulator: {
+2017-12-08T08:59:58.101Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-12-08T08:59:58.101Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-12-08T08:59:58.103Z - normal: Simulator: 	cocos2d.x.version: 1.6.1
+2017-12-08T08:59:58.103Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2017-12-08T08:59:58.104Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-12-08T08:59:58.105Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2017-12-08T08:59:58.111Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-12-08T08:59:58.112Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-12-08T08:59:58.112Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-12-08T08:59:58.112Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-12-08T08:59:58.113Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-12-08T08:59:58.113Z - normal: Simulator: 	gl.max_texture_units: 16
+2017-12-08T08:59:58.114Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-12-08T08:59:58.114Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-12-08T08:59:58.115Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-12-08T08:59:58.115Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.17
+2017-12-08T08:59:58.115Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-12-08T08:59:58.116Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-12-08T08:59:58.116Z - normal: Simulator: }
+2017-12-08T08:59:58.117Z - normal: Simulator: 
+2017-12-08T08:59:58.117Z - normal: Simulator: 
+2017-12-08T08:59:58.118Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-12-08T08:59:58.118Z - normal: Simulator: Project Config:
+2017-12-08T08:59:58.119Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2017-12-08T08:59:58.120Z - normal: Simulator:     writable path: $(PROJDIR)/
+2017-12-08T08:59:58.120Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2017-12-08T08:59:58.121Z - normal: Simulator:     frame size: 1080 x 1660
+2017-12-08T08:59:58.122Z - normal: Simulator:     frame scale: 0.25
+2017-12-08T08:59:58.122Z - normal: Simulator:     show console: NO
+2017-12-08T08:59:58.123Z - normal: Simulator:     write debug log: NO ()
+2017-12-08T08:59:58.124Z - normal: Simulator:     listen: 
+2017-12-08T08:59:58.125Z - normal: Simulator:     debugger: none
+2017-12-08T08:59:58.125Z - normal: Simulator:     add searching path:
+2017-12-08T08:59:58.126Z - normal: Simulator: 
+2017-12-08T08:59:58.126Z - normal: Simulator: 
+2017-12-08T08:59:58.127Z - normal: Simulator: 
+2017-12-08T08:59:58.127Z - normal: Simulator: ------------------------------------------------
+2017-12-08T08:59:58.128Z - normal: Simulator: LOAD Js FILE: main.js
+2017-12-08T08:59:58.128Z - normal: Simulator: ------------------------------------------------
+2017-12-08T08:59:58.129Z - normal: Simulator: Cocos2d-x-lite v1.6.0
+2017-12-08T08:59:58.207Z - normal: Simulator: iShow!
+2017-12-08T08:59:59.465Z - normal: Simulator: InitScene: 49.403999999999996ms
+2017-12-08T08:59:59.467Z - normal: Simulator: AutoRelease: 1.1340000000000146ms
+2017-12-08T08:59:59.468Z - normal: Simulator: Destroy: 0.09400000000005093ms
+2017-12-08T08:59:59.468Z - normal: Simulator: AttachPersist: 0.010999999999967258ms
+2017-12-08T09:00:00.064Z - normal: Simulator: jb=true
+2017-12-08T09:00:00.065Z - normal: Simulator: this.gameToken = 88c8afd5a29d5e27e4066f1f9eda5102-12-1576-2999
+2017-12-08T09:00:00.066Z - normal: Simulator: this.headerToken = 3709660283
+2017-12-08T09:00:00.066Z - normal: Simulator: request-----------data = {}
+2017-12-08T09:00:00.066Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:00:00.067Z - normal: Simulator: In the constructor of HttpClient!
+2017-12-08T09:00:00.067Z - normal: Simulator: 没有走淘宝SDK
+2017-12-08T09:00:00.068Z - normal: Simulator: Activate: 436.1149999999998ms
+2017-12-08T09:00:00.198Z - normal: Simulator: ny=-2161
+2017-12-08T09:00:00.248Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:00:00.249Z - normal: Simulator: data = {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":[],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"1200","date":1512460638716,"msg":"恭喜玩家#{user} 中1200豆","payAmount":"500","type":"0","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/16:59:59:628","poolBouns":92166049,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}, cmd = 100
+2017-12-08T09:00:00.249Z - normal: Simulator: {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":[],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"1200","date":1512460638716,"msg":"恭喜玩家#{user} 中1200豆","payAmount":"500","type":"0","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/16:59:59:628","poolBouns":92166049,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}
+2017-12-08T09:00:00.249Z - normal: Simulator: marqueeInfos恭喜玩家#{user} 中1200豆
+2017-12-08T09:00:00.250Z - normal: Simulator: netCallback cmd=100es=0msg=success
+2017-12-08T09:00:00.260Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:00.260Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:00.261Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:00.262Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:00.263Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:00.264Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:00.264Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:00.264Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:00.265Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:00.265Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:00.265Z - normal: Simulator: skinssssssss
+2017-12-08T09:00:02.279Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:00:02.279Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:00:02.280Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:00:04.348Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:00:04.348Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:00:04.349Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:00:06.648Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 695.00
+2017-12-08T09:00:06.649Z - normal: Simulator: FRAME SCALE = 0.25
+2017-12-08T09:00:06.649Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2017-12-08T09:00:06.650Z - normal: Simulator: 
+2017-12-08T09:00:06.651Z - normal: Simulator: {
+2017-12-08T09:00:06.652Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-12-08T09:00:06.653Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-12-08T09:00:06.653Z - normal: Simulator: 	cocos2d.x.version: 1.6.1
+2017-12-08T09:00:06.654Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2017-12-08T09:00:06.655Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-12-08T09:00:06.655Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2017-12-08T09:00:06.656Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-12-08T09:00:06.656Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-12-08T09:00:06.657Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-12-08T09:00:06.657Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-12-08T09:00:06.658Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-12-08T09:00:06.666Z - normal: Simulator: 	gl.max_texture_units: 16
+2017-12-08T09:00:06.667Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-12-08T09:00:06.668Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-12-08T09:00:06.669Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-12-08T09:00:06.670Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.17
+2017-12-08T09:00:06.671Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-12-08T09:00:06.671Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-12-08T09:00:06.672Z - normal: Simulator: }
+2017-12-08T09:00:06.672Z - normal: Simulator: 
+2017-12-08T09:00:06.672Z - normal: Simulator: 
+2017-12-08T09:00:06.672Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-12-08T09:00:06.676Z - normal: Simulator: Project Config:
+2017-12-08T09:00:06.676Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2017-12-08T09:00:06.676Z - normal: Simulator:     writable path: $(PROJDIR)/
+2017-12-08T09:00:06.677Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2017-12-08T09:00:06.677Z - normal: Simulator:     frame size: 1080 x 1660
+2017-12-08T09:00:06.679Z - normal: Simulator:     frame scale: 0.25
+2017-12-08T09:00:06.679Z - normal: Simulator:     show console: NO
+2017-12-08T09:00:06.680Z - normal: Simulator:     write debug log: NO ()
+2017-12-08T09:00:06.680Z - normal: Simulator:     listen: 
+2017-12-08T09:00:06.681Z - normal: Simulator:     debugger: none
+2017-12-08T09:00:06.681Z - normal: Simulator:     add searching path:
+2017-12-08T09:00:06.688Z - normal: Simulator: ------------------------------------------------
+2017-12-08T09:00:06.689Z - normal: Simulator: LOAD Js FILE: main.js
+2017-12-08T09:00:06.689Z - normal: Simulator: ------------------------------------------------
+2017-12-08T09:00:06.795Z - normal: Simulator: Cocos2d-x-lite v1.6.0
+2017-12-08T09:00:07.218Z - normal: Simulator: iShow!
+2017-12-08T09:00:08.239Z - normal: Simulator: InitScene: 36.111000000000104ms
+2017-12-08T09:00:08.240Z - normal: Simulator: AutoRelease: 0.7669999999998254ms
+2017-12-08T09:00:08.240Z - normal: Simulator: Destroy: 0.06900000000018736ms
+2017-12-08T09:00:08.241Z - normal: Simulator: AttachPersist: 0.008000000000038199ms
+2017-12-08T09:00:08.623Z - normal: Simulator: jb=true
+2017-12-08T09:00:08.624Z - normal: Simulator: this.gameToken = 88c8afd5a29d5e27e4066f1f9eda5102-12-1576-2999
+2017-12-08T09:00:08.624Z - normal: Simulator: this.headerToken = 3709660283
+2017-12-08T09:00:08.625Z - normal: Simulator: request-----------data = {}
+2017-12-08T09:00:08.632Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:00:08.632Z - normal: Simulator: In the constructor of HttpClient!
+2017-12-08T09:00:08.634Z - normal: Simulator: 没有走淘宝SDK
+2017-12-08T09:00:08.679Z - normal: Simulator: Activate: 418.15800000000013ms
+2017-12-08T09:00:08.829Z - normal: Simulator: ny=-2161
+2017-12-08T09:00:08.873Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:00:08.878Z - normal: Simulator: data = {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":[],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"1200","date":1512460638716,"msg":"恭喜玩家#{user} 中1200豆","payAmount":"500","type":"0","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/17:00:08:335","poolBouns":92166049,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}, cmd = 100
+2017-12-08T09:00:08.925Z - normal: Simulator: {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":[],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"1200","date":1512460638716,"msg":"恭喜玩家#{user} 中1200豆","payAmount":"500","type":"0","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/17:00:08:335","poolBouns":92166049,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}
+2017-12-08T09:00:08.926Z - normal: Simulator: marqueeInfos恭喜玩家#{user} 中1200豆
+2017-12-08T09:00:08.927Z - normal: Simulator: netCallback cmd=100es=0msg=success
+2017-12-08T09:00:08.951Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:08.952Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:08.952Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:08.953Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:08.953Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:08.954Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:08.957Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:08.958Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:08.959Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:08.960Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:08.960Z - normal: Simulator: skinssssssss
+2017-12-08T09:00:10.973Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:00:10.973Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:00:10.974Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:00:13.021Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:00:13.022Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:00:13.023Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:00:15.069Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:00:15.069Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:00:15.071Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:00:17.137Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:00:17.137Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:00:17.137Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:00:17.408Z - normal: Simulator: HttpClient::destroyInstance begin
+2017-12-08T09:00:17.408Z - normal: Simulator: HttpClient destructor
+2017-12-08T09:00:17.408Z - normal: Simulator: HttpClient::destroyInstance() finished!
+2017-12-08T09:00:17.446Z - normal: Simulator: basic_object_finalize 0x1992b7f0 ...
+2017-12-08T09:00:17.447Z - normal: Simulator: basic_object_finalize 0x19944490 ...
+2017-12-08T09:00:17.448Z - normal: Simulator: basic_object_finalize 0x199444f0 ...
+2017-12-08T09:00:17.448Z - normal: Simulator: basic_object_finalize 0x199445b0 ...
+2017-12-08T09:00:17.449Z - normal: Simulator: basic_object_finalize 0x19944610 ...
+2017-12-08T09:00:17.484Z - normal: Simulator: basic_object_finalize 0x165e26a0 ...
+2017-12-08T09:00:17.484Z - normal: Simulator: jsbindings: finalizing JS object 0x165e26d0 (WebSocket)
+2017-12-08T09:00:17.485Z - normal: Simulator: jsbindings: finalizing JS object 0x165e2700 (SocketIO)
+2017-12-08T09:00:17.486Z - normal: Simulator: JavaScriptObjCBridge_finalize 0x165e2790 ...
+2017-12-08T09:00:17.486Z - normal: Simulator: JavaScriptObjCBridge_finalize 0x165e2a00 ...
+2017-12-08T09:00:24.306Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 694.00
+2017-12-08T09:00:24.306Z - normal: Simulator: FRAME SCALE = 0.25
+2017-12-08T09:00:24.314Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2017-12-08T09:00:24.460Z - normal: Simulator: 
+2017-12-08T09:00:24.460Z - normal: Simulator: {
+2017-12-08T09:00:24.461Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-12-08T09:00:24.461Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-12-08T09:00:24.461Z - normal: Simulator: 	cocos2d.x.version: 1.6.1
+2017-12-08T09:00:24.462Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2017-12-08T09:00:24.462Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-12-08T09:00:24.462Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2017-12-08T09:00:24.463Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-12-08T09:00:24.463Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-12-08T09:00:24.463Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-12-08T09:00:24.463Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-12-08T09:00:24.464Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-12-08T09:00:24.464Z - normal: Simulator: 	gl.max_texture_units: 16
+2017-12-08T09:00:24.464Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-12-08T09:00:24.465Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-12-08T09:00:24.465Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-12-08T09:00:24.465Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.17
+2017-12-08T09:00:24.465Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-12-08T09:00:24.466Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-12-08T09:00:24.466Z - normal: Simulator: }
+2017-12-08T09:00:24.466Z - normal: Simulator: 
+2017-12-08T09:00:24.466Z - normal: Simulator: 
+2017-12-08T09:00:24.467Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-12-08T09:00:24.467Z - normal: Simulator: Project Config:
+2017-12-08T09:00:24.467Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2017-12-08T09:00:24.468Z - normal: Simulator:     writable path: $(PROJDIR)/
+2017-12-08T09:00:24.468Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2017-12-08T09:00:24.468Z - normal: Simulator:     frame size: 1080 x 1660
+2017-12-08T09:00:24.468Z - normal: Simulator:     frame scale: 0.25
+2017-12-08T09:00:24.469Z - normal: Simulator:     show console: NO
+2017-12-08T09:00:24.469Z - normal: Simulator:     write debug log: NO ()
+2017-12-08T09:00:24.469Z - normal: Simulator:     listen: 
+2017-12-08T09:00:24.469Z - normal: Simulator:     debugger: none
+2017-12-08T09:00:24.470Z - normal: Simulator:     add searching path:
+2017-12-08T09:00:24.534Z - normal: Simulator: ------------------------------------------------
+2017-12-08T09:00:24.534Z - normal: Simulator: LOAD Js FILE: main.js
+2017-12-08T09:00:24.534Z - normal: Simulator: ------------------------------------------------
+2017-12-08T09:00:24.590Z - normal: Simulator: Cocos2d-x-lite v1.6.0
+2017-12-08T09:00:25.034Z - normal: Simulator: iShow!
+2017-12-08T09:00:25.988Z - normal: Simulator: InitScene: 38.75799999999981ms
+2017-12-08T09:00:25.989Z - normal: Simulator: AutoRelease: 0.6639999999999873ms
+2017-12-08T09:00:25.990Z - normal: Simulator: Destroy: 0.08600000000001273ms
+2017-12-08T09:00:25.991Z - normal: Simulator: AttachPersist: 0.016000000000076398ms
+2017-12-08T09:00:26.351Z - normal: Simulator: jb=true
+2017-12-08T09:00:26.354Z - normal: Simulator: this.gameToken = 88c8afd5a29d5e27e4066f1f9eda5102-12-1576-2999
+2017-12-08T09:00:26.354Z - normal: Simulator: this.headerToken = 3709660283
+2017-12-08T09:00:26.355Z - normal: Simulator: request-----------data = {}
+2017-12-08T09:00:26.356Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:00:26.356Z - normal: Simulator: In the constructor of HttpClient!
+2017-12-08T09:00:26.357Z - normal: Simulator: 没有走淘宝SDK
+2017-12-08T09:00:26.403Z - normal: Simulator: Activate: 390.95399999999995ms
+2017-12-08T09:00:26.609Z - normal: Simulator: ny=-2161
+2017-12-08T09:00:26.610Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:00:26.614Z - normal: Simulator: data = {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":[],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"1200","date":1512460638716,"msg":"恭喜玩家#{user} 中1200豆","payAmount":"500","type":"0","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/17:00:26:057","poolBouns":92166049,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}, cmd = 100
+2017-12-08T09:00:26.615Z - normal: Simulator: {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":[],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"1200","date":1512460638716,"msg":"恭喜玩家#{user} 中1200豆","payAmount":"500","type":"0","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/17:00:26:057","poolBouns":92166049,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}
+2017-12-08T09:00:26.650Z - normal: Simulator: marqueeInfos恭喜玩家#{user} 中1200豆
+2017-12-08T09:00:26.651Z - normal: Simulator: netCallback cmd=100es=0msg=success
+2017-12-08T09:00:26.653Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:26.654Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:26.655Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:26.660Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:26.661Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:26.661Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:26.661Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:26.662Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:26.662Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:26.665Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:26.665Z - normal: Simulator: skinssssssss
+2017-12-08T09:00:28.693Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:00:28.695Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:00:28.758Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:00:29.587Z - normal: Simulator: HttpClient::destroyInstance begin
+2017-12-08T09:00:29.587Z - normal: Simulator: HttpClient destructor
+2017-12-08T09:00:29.588Z - normal: Simulator: HttpClient::destroyInstance() finished!
+2017-12-08T09:00:29.629Z - normal: Simulator: basic_object_finalize 0x1282b7f0 ...
+2017-12-08T09:00:29.630Z - normal: Simulator: basic_object_finalize 0x128444f0 ...
+2017-12-08T09:00:29.662Z - normal: Simulator: basic_object_finalize 0xf3e26a0 ...
+2017-12-08T09:00:29.663Z - normal: Simulator: jsbindings: finalizing JS object 0xf3e26d0 (WebSocket)
+2017-12-08T09:00:29.664Z - normal: Simulator: jsbindings: finalizing JS object 0xf3e2700 (SocketIO)
+2017-12-08T09:00:29.664Z - normal: Simulator: JavaScriptObjCBridge_finalize 0xf3e2790 ...
+2017-12-08T09:00:29.665Z - normal: Simulator: JavaScriptObjCBridge_finalize 0xf3e2a00 ...
+2017-12-08T09:00:44.689Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 694.00
+2017-12-08T09:00:44.690Z - normal: Simulator: FRAME SCALE = 0.25
+2017-12-08T09:00:44.699Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2017-12-08T09:00:44.886Z - normal: Simulator: 
+2017-12-08T09:00:44.887Z - normal: Simulator: {
+2017-12-08T09:00:44.887Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-12-08T09:00:44.888Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-12-08T09:00:44.888Z - normal: Simulator: 	cocos2d.x.version: 1.6.1
+2017-12-08T09:00:44.889Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2017-12-08T09:00:44.889Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-12-08T09:00:44.890Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2017-12-08T09:00:44.890Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-12-08T09:00:44.891Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-12-08T09:00:44.891Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-12-08T09:00:44.892Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-12-08T09:00:44.893Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-12-08T09:00:44.893Z - normal: Simulator: 	gl.max_texture_units: 16
+2017-12-08T09:00:44.893Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-12-08T09:00:44.894Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-12-08T09:00:44.894Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-12-08T09:00:44.894Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.17
+2017-12-08T09:00:44.895Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-12-08T09:00:44.896Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-12-08T09:00:44.896Z - normal: Simulator: }
+2017-12-08T09:00:44.897Z - normal: Simulator: 
+2017-12-08T09:00:44.897Z - normal: Simulator: 
+2017-12-08T09:00:44.898Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-12-08T09:00:44.955Z - normal: Simulator: Project Config:
+2017-12-08T09:00:44.955Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2017-12-08T09:00:44.955Z - normal: Simulator:     writable path: $(PROJDIR)/
+2017-12-08T09:00:44.956Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2017-12-08T09:00:44.956Z - normal: Simulator:     frame size: 1080 x 1660
+2017-12-08T09:00:44.957Z - normal: Simulator:     frame scale: 0.25
+2017-12-08T09:00:44.957Z - normal: Simulator:     show console: NO
+2017-12-08T09:00:44.957Z - normal: Simulator:     write debug log: NO ()
+2017-12-08T09:00:44.957Z - normal: Simulator:     listen: 
+2017-12-08T09:00:44.958Z - normal: Simulator:     debugger: none
+2017-12-08T09:00:44.959Z - normal: Simulator:     add searching path:
+2017-12-08T09:00:44.959Z - normal: Simulator: 
+2017-12-08T09:00:44.960Z - normal: Simulator: 
+2017-12-08T09:00:44.960Z - normal: Simulator: 
+2017-12-08T09:00:44.960Z - normal: Simulator: ------------------------------------------------
+2017-12-08T09:00:44.961Z - normal: Simulator: LOAD Js FILE: main.js
+2017-12-08T09:00:44.961Z - normal: Simulator: ------------------------------------------------
+2017-12-08T09:00:45.007Z - normal: Simulator: Cocos2d-x-lite v1.6.0
+2017-12-08T09:00:45.468Z - normal: Simulator: iShow!
+2017-12-08T09:00:46.450Z - normal: Simulator: InitScene: 39.43899999999985ms
+2017-12-08T09:00:46.451Z - normal: Simulator: AutoRelease: 0.7460000000000946ms
+2017-12-08T09:00:46.451Z - normal: Simulator: Destroy: 0.07500000000004547ms
+2017-12-08T09:00:46.452Z - normal: Simulator: AttachPersist: 0.008999999999787178ms
+2017-12-08T09:00:46.748Z - normal: Simulator: jb=true
+2017-12-08T09:00:46.749Z - normal: Simulator: this.gameToken = 88c8afd5a29d5e27e4066f1f9eda5102-12-1576-2999
+2017-12-08T09:00:46.749Z - normal: Simulator: this.headerToken = 3709660283
+2017-12-08T09:00:46.749Z - normal: Simulator: request-----------data = {}
+2017-12-08T09:00:46.750Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:00:46.750Z - normal: Simulator: In the constructor of HttpClient!
+2017-12-08T09:00:46.751Z - normal: Simulator: 没有走淘宝SDK
+2017-12-08T09:00:46.753Z - normal: Simulator: Activate: 314.47900000000004ms
+2017-12-08T09:00:46.954Z - normal: Simulator: ny=-2161
+2017-12-08T09:00:47.010Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:00:47.013Z - normal: Simulator: data = {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":[],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"1200","date":1512460638716,"msg":"恭喜玩家#{user} 中1200豆","payAmount":"500","type":"0","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/17:00:46:457","poolBouns":92166049,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}, cmd = 100
+2017-12-08T09:00:47.014Z - normal: Simulator: {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":[],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"1200","date":1512460638716,"msg":"恭喜玩家#{user} 中1200豆","payAmount":"500","type":"0","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/17:00:46:457","poolBouns":92166049,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}
+2017-12-08T09:00:47.015Z - normal: Simulator: marqueeInfos恭喜玩家#{user} 中1200豆
+2017-12-08T09:00:47.015Z - normal: Simulator: netCallback cmd=100es=0msg=success
+2017-12-08T09:00:47.063Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:47.066Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:47.068Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:47.069Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:47.069Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:47.069Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:47.070Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:47.070Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:47.070Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:47.071Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:00:47.071Z - normal: Simulator: skinssssssss
+2017-12-08T09:00:49.124Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:00:49.125Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:00:49.126Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:00:50.019Z - normal: Simulator: HttpClient::destroyInstance begin
+2017-12-08T09:00:50.019Z - normal: Simulator: HttpClient destructor
+2017-12-08T09:00:50.020Z - normal: Simulator: HttpClient::destroyInstance() finished!
+2017-12-08T09:00:50.056Z - normal: Simulator: basic_object_finalize 0x1d4297f0 ...
+2017-12-08T09:00:50.057Z - normal: Simulator: basic_object_finalize 0x1d443700 ...
+2017-12-08T09:00:50.092Z - normal: Simulator: basic_object_finalize 0x1a0e26a0 ...
+2017-12-08T09:00:50.092Z - normal: Simulator: jsbindings: finalizing JS object 0x1a0e26d0 (WebSocket)
+2017-12-08T09:00:50.093Z - normal: Simulator: jsbindings: finalizing JS object 0x1a0e2700 (SocketIO)
+2017-12-08T09:00:50.093Z - normal: Simulator: JavaScriptObjCBridge_finalize 0x1a0e2790 ...
+2017-12-08T09:00:50.093Z - normal: Simulator: JavaScriptObjCBridge_finalize 0x1a0e2a00 ...
+2017-12-08T09:01:16.548Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 694.00
+2017-12-08T09:01:16.548Z - normal: Simulator: FRAME SCALE = 0.25
+2017-12-08T09:01:16.552Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2017-12-08T09:01:16.840Z - normal: Simulator: 
+2017-12-08T09:01:16.840Z - normal: Simulator: {
+2017-12-08T09:01:16.841Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-12-08T09:01:16.841Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-12-08T09:01:16.842Z - normal: Simulator: 	cocos2d.x.version: 1.6.1
+2017-12-08T09:01:16.842Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2017-12-08T09:01:16.842Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-12-08T09:01:16.843Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2017-12-08T09:01:16.843Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-12-08T09:01:16.844Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-12-08T09:01:16.844Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-12-08T09:01:16.844Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-12-08T09:01:16.845Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-12-08T09:01:16.845Z - normal: Simulator: 	gl.max_texture_units: 16
+2017-12-08T09:01:16.845Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-12-08T09:01:16.846Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-12-08T09:01:16.847Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-12-08T09:01:16.848Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.17
+2017-12-08T09:01:16.848Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-12-08T09:01:16.848Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-12-08T09:01:16.849Z - normal: Simulator: }
+2017-12-08T09:01:16.849Z - normal: Simulator: 
+2017-12-08T09:01:16.850Z - normal: Simulator: 
+2017-12-08T09:01:16.850Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-12-08T09:01:16.854Z - normal: Simulator: Project Config:
+2017-12-08T09:01:16.855Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2017-12-08T09:01:16.856Z - normal: Simulator:     writable path: $(PROJDIR)/
+2017-12-08T09:01:16.856Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2017-12-08T09:01:16.857Z - normal: Simulator:     frame size: 1080 x 1660
+2017-12-08T09:01:16.857Z - normal: Simulator:     frame scale: 0.25
+2017-12-08T09:01:16.858Z - normal: Simulator:     show console: NO
+2017-12-08T09:01:16.858Z - normal: Simulator:     write debug log: NO ()
+2017-12-08T09:01:16.858Z - normal: Simulator:     listen: 
+2017-12-08T09:01:16.859Z - normal: Simulator:     debugger: none
+2017-12-08T09:01:16.859Z - normal: Simulator:     add searching path:
+2017-12-08T09:01:16.860Z - normal: Simulator: 
+2017-12-08T09:01:16.860Z - normal: Simulator: 
+2017-12-08T09:01:16.861Z - normal: Simulator: 
+2017-12-08T09:01:16.861Z - normal: Simulator: ------------------------------------------------
+2017-12-08T09:01:16.861Z - normal: Simulator: LOAD Js FILE: main.js
+2017-12-08T09:01:16.862Z - normal: Simulator: ------------------------------------------------
+2017-12-08T09:01:16.939Z - normal: Simulator: Cocos2d-x-lite v1.6.0
+2017-12-08T09:01:17.400Z - normal: Simulator: iShow!
+2017-12-08T09:01:18.447Z - normal: Simulator: InitScene: 36.62699999999995ms
+2017-12-08T09:01:18.447Z - normal: Simulator: AutoRelease: 0.8510000000001128ms
+2017-12-08T09:01:18.448Z - normal: Simulator: Destroy: 0.09600000000000364ms
+2017-12-08T09:01:18.449Z - normal: Simulator: AttachPersist: 0.009999999999990905ms
+2017-12-08T09:01:18.693Z - normal: Simulator: jb=true
+2017-12-08T09:01:18.694Z - normal: Simulator: this.gameToken = 88c8afd5a29d5e27e4066f1f9eda5102-12-1576-2999
+2017-12-08T09:01:18.694Z - normal: Simulator: this.headerToken = 3709660283
+2017-12-08T09:01:18.694Z - normal: Simulator: request-----------data = {}
+2017-12-08T09:01:18.695Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:01:18.696Z - normal: Simulator: In the constructor of HttpClient!
+2017-12-08T09:01:18.697Z - normal: Simulator: 没有走淘宝SDK
+2017-12-08T09:01:18.735Z - normal: Simulator: Activate: 270.06100000000015ms
+2017-12-08T09:01:18.912Z - normal: Simulator: ny=-2161
+2017-12-08T09:01:18.981Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:01:18.984Z - normal: Simulator: data = {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":[],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"1200","date":1512460638716,"msg":"恭喜玩家#{user} 中1200豆","payAmount":"500","type":"0","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/17:01:18:438","poolBouns":92166049,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}, cmd = 100
+2017-12-08T09:01:18.985Z - normal: Simulator: {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":[],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"1200","date":1512460638716,"msg":"恭喜玩家#{user} 中1200豆","payAmount":"500","type":"0","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/17:01:18:438","poolBouns":92166049,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}
+2017-12-08T09:01:18.985Z - normal: Simulator: marqueeInfos恭喜玩家#{user} 中1200豆
+2017-12-08T09:01:18.986Z - normal: Simulator: netCallback cmd=100es=0msg=success
+2017-12-08T09:01:19.006Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:01:19.006Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:01:19.007Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:01:19.007Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:01:19.008Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:01:19.008Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:01:19.010Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:01:19.011Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:01:19.027Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:01:19.028Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:01:19.028Z - normal: Simulator: skinssssssss
+2017-12-08T09:01:19.468Z - normal: Simulator: HttpClient::destroyInstance begin
+2017-12-08T09:01:19.468Z - normal: Simulator: HttpClient destructor
+2017-12-08T09:01:19.468Z - normal: Simulator: HttpClient::destroyInstance() finished!
+2017-12-08T09:01:19.496Z - normal: Simulator: basic_object_finalize 0xf6277f0 ...
+2017-12-08T09:01:19.561Z - normal: Simulator: basic_object_finalize 0xc2e26a0 ...
+2017-12-08T09:01:19.561Z - normal: Simulator: jsbindings: finalizing JS object 0xc2e26d0 (WebSocket)
+2017-12-08T09:01:19.562Z - normal: Simulator: jsbindings: finalizing JS object 0xc2e2700 (SocketIO)
+2017-12-08T09:01:19.562Z - normal: Simulator: JavaScriptObjCBridge_finalize 0xc2e2790 ...
+2017-12-08T09:01:19.562Z - normal: Simulator: JavaScriptObjCBridge_finalize 0xc2e2a00 ...
+2017-12-08T09:01:27.560Z - normal: Start building with options : {
+  "androidStudio": false,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liubo/Desktop/NewSlots/build",
+  "debug": false,
+  "dest": "/Users/liubo/Desktop/NewSlots/build/web-mobile",
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": 720,
+  "previewWidth": 1280,
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    "97a62945-9746-4291-a879-f5835455e427"
+  ],
+  "sourceMaps": false,
+  "startScene": "97a62945-9746-4291-a879-f5835455e427",
+  "template": "default",
+  "title": "newSlots",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "project": "/Users/liubo/Desktop/NewSlots",
+  "projectName": "newSlots",
+  "debugBuildWorker": false
+}
+2017-12-08T09:01:27.562Z - normal: Building /Users/liubo/Desktop/NewSlots
+2017-12-08T09:01:27.563Z - normal: Destination /Users/liubo/Desktop/NewSlots/build/web-mobile
+2017-12-08T09:01:28.079Z - normal: Delete /Users/liubo/Desktop/NewSlots/build/web-mobile/res/**/*
+2017-12-08T09:01:28.083Z - normal: Delete /Users/liubo/Desktop/NewSlots/build/web-mobile/src/*/
+2017-12-08T09:01:33.594Z - normal: Compiled project javascript file successfully
+2017-12-08T09:01:33.595Z - normal: Start building assets
+2017-12-08T09:01:33.595Z - normal: Start spawn build-worker
+2017-12-08T09:01:34.450Z - normal: Finish spawn build-worker
+2017-12-08T09:01:34.450Z - normal: Start init build-worker
+2017-12-08T09:01:36.572Z - normal: 1.6.1
+2017-12-08T09:01:36.777Z - normal: Finish init build-worker
+2017-12-08T09:01:36.777Z - normal: Start build-assets in worker
+2017-12-08T09:01:47.387Z - normal: Finish build-assets in worker
+2017-12-08T09:01:47.395Z - normal: Finish building assets
+2017-12-08T09:01:47.445Z - normal: Start building raw assets
+2017-12-08T09:01:47.446Z - normal: [build-raw-assets] Start copying /Users/liubo/Desktop/NewSlots/assets/Texture/betAndPoolArea/betAndPoolArea.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-assets/Texture/betAndPoolArea/betAndPoolArea.png
+2017-12-08T09:01:47.447Z - normal: [build-raw-assets] Start copying /Users/liubo/Desktop/NewSlots/assets/Texture/bg/bg.jpg to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-assets/Texture/bg/bg.jpg
+2017-12-08T09:01:47.447Z - normal: [build-raw-assets] Start copying /Users/liubo/Desktop/NewSlots/assets/Texture/centerBg/bg1.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-assets/Texture/centerBg/bg1.png
+2017-12-08T09:01:47.447Z - normal: [build-raw-assets] Start copying /Users/liubo/Desktop/NewSlots/assets/Texture/cubes/cube.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-assets/Texture/cubes/cube.png
+2017-12-08T09:01:47.448Z - normal: Start building plugin scripts
+2017-12-08T09:01:47.466Z - normal: [build-raw-assets] Finish copying /Users/liubo/Desktop/NewSlots/assets/Texture/bg/bg.jpg to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-assets/Texture/bg/bg.jpg
+2017-12-08T09:01:47.466Z - normal: [build-raw-assets] Start copying /Users/liubo/Desktop/NewSlots/assets/Texture/facai/bj_fc_facai.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-assets/Texture/facai/bj_fc_facai.png
+2017-12-08T09:01:47.466Z - normal: [build-raw-assets] Finish copying /Users/liubo/Desktop/NewSlots/assets/Texture/centerBg/bg1.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-assets/Texture/centerBg/bg1.png
+2017-12-08T09:01:47.466Z - normal: [build-raw-assets] Start copying /Users/liubo/Desktop/NewSlots/assets/Texture/jiangchi/jiangchi.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-assets/Texture/jiangchi/jiangchi.png
+2017-12-08T09:01:47.470Z - normal: [build-raw-assets] Finish copying /Users/liubo/Desktop/NewSlots/assets/Texture/cubes/cube.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-assets/Texture/cubes/cube.png
+2017-12-08T09:01:47.470Z - normal: [build-raw-assets] Start copying /Users/liubo/Desktop/NewSlots/assets/Texture/spine/guangxiao.atlas to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-assets/Texture/spine/guangxiao.atlas
+2017-12-08T09:01:47.471Z - normal: [build-raw-assets] Finish copying /Users/liubo/Desktop/NewSlots/assets/Texture/betAndPoolArea/betAndPoolArea.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-assets/Texture/betAndPoolArea/betAndPoolArea.png
+2017-12-08T09:01:47.471Z - normal: [build-raw-assets] Start copying /Users/liubo/Desktop/NewSlots/assets/Texture/spine/guangxiao.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-assets/Texture/spine/guangxiao.png
+2017-12-08T09:01:47.473Z - normal: [build-raw-assets] Finish copying /Users/liubo/Desktop/NewSlots/assets/Texture/facai/bj_fc_facai.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-assets/Texture/facai/bj_fc_facai.png
+2017-12-08T09:01:47.474Z - normal: [build-raw-assets] Finish copying /Users/liubo/Desktop/NewSlots/assets/Texture/spine/guangxiao.atlas to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-assets/Texture/spine/guangxiao.atlas
+2017-12-08T09:01:47.475Z - normal: [build-raw-assets] Finish copying /Users/liubo/Desktop/NewSlots/assets/Texture/jiangchi/jiangchi.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-assets/Texture/jiangchi/jiangchi.png
+2017-12-08T09:01:47.478Z - normal: [build-raw-assets] Finish copying /Users/liubo/Desktop/NewSlots/assets/Texture/spine/guangxiao.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-assets/Texture/spine/guangxiao.png
+2017-12-08T09:01:47.478Z - normal: [build-raw-assets] Start copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_btn_disabled.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-internal/image/default_btn_disabled.png
+2017-12-08T09:01:47.478Z - normal: [build-raw-assets] Start copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_btn_normal.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-internal/image/default_btn_normal.png
+2017-12-08T09:01:47.479Z - normal: [build-raw-assets] Start copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_btn_pressed.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-internal/image/default_btn_pressed.png
+2017-12-08T09:01:47.479Z - normal: [build-raw-assets] Start copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_sprite.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-internal/image/default_sprite.png
+2017-12-08T09:01:47.485Z - normal: [build-raw-assets] Finish copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_btn_disabled.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-internal/image/default_btn_disabled.png
+2017-12-08T09:01:47.485Z - normal: [build-raw-assets] Start copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_sprite_splash.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-internal/image/default_sprite_splash.png
+2017-12-08T09:01:47.486Z - normal: [build-raw-assets] Finish copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_btn_normal.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-internal/image/default_btn_normal.png
+2017-12-08T09:01:47.486Z - normal: [build-raw-assets] Finish copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_btn_pressed.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-internal/image/default_btn_pressed.png
+2017-12-08T09:01:47.486Z - normal: [build-raw-assets] Finish copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_sprite.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-internal/image/default_sprite.png
+2017-12-08T09:01:47.488Z - normal: [build-raw-assets] Finish copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_sprite_splash.png to /Users/liubo/Desktop/NewSlots/build/web-mobile/res/raw-internal/image/default_sprite_splash.png
+2017-12-08T09:01:47.488Z - normal: Finish building raw assets
+2017-12-08T09:01:47.505Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2017-12-08T09:01:47.516Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2017-12-08T09:01:47.613Z - normal: Built to "/Users/liubo/Desktop/NewSlots/build/web-mobile" successfully
+2017-12-08T09:28:13.802Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 695.00
+2017-12-08T09:28:13.805Z - normal: Simulator: FRAME SCALE = 0.25
+2017-12-08T09:28:13.843Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2017-12-08T09:28:13.984Z - normal: Simulator: 
+2017-12-08T09:28:13.984Z - normal: Simulator: {
+2017-12-08T09:28:13.984Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-12-08T09:28:13.985Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-12-08T09:28:13.986Z - normal: Simulator: 	cocos2d.x.version: 1.6.1
+2017-12-08T09:28:13.986Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2017-12-08T09:28:13.986Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-12-08T09:28:13.987Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2017-12-08T09:28:13.987Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-12-08T09:28:13.987Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-12-08T09:28:13.988Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-12-08T09:28:13.989Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-12-08T09:28:13.989Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-12-08T09:28:13.990Z - normal: Simulator: 	gl.max_texture_units: 16
+2017-12-08T09:28:13.990Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-12-08T09:28:13.991Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-12-08T09:28:13.991Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-12-08T09:28:13.992Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.17
+2017-12-08T09:28:13.992Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-12-08T09:28:13.992Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-12-08T09:28:13.993Z - normal: Simulator: }
+2017-12-08T09:28:13.993Z - normal: Simulator: 
+2017-12-08T09:28:13.994Z - normal: Simulator: 
+2017-12-08T09:28:13.995Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-12-08T09:28:13.995Z - normal: Simulator: Project Config:
+2017-12-08T09:28:13.996Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2017-12-08T09:28:13.997Z - normal: Simulator:     writable path: $(PROJDIR)/
+2017-12-08T09:28:13.997Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2017-12-08T09:28:13.998Z - normal: Simulator:     frame size: 1080 x 1660
+2017-12-08T09:28:13.998Z - normal: Simulator:     frame scale: 0.25
+2017-12-08T09:28:13.999Z - normal: Simulator:     show console: NO
+2017-12-08T09:28:14.000Z - normal: Simulator:     write debug log: NO ()
+2017-12-08T09:28:14.001Z - normal: Simulator:     listen: 
+2017-12-08T09:28:14.001Z - normal: Simulator:     debugger: none
+2017-12-08T09:28:14.002Z - normal: Simulator:     add searching path:
+2017-12-08T09:28:14.101Z - normal: Simulator: ------------------------------------------------
+2017-12-08T09:28:14.101Z - normal: Simulator: LOAD Js FILE: main.js
+2017-12-08T09:28:14.102Z - normal: Simulator: ------------------------------------------------
+2017-12-08T09:28:14.157Z - normal: Simulator: Cocos2d-x-lite v1.6.0
+2017-12-08T09:28:14.679Z - normal: Simulator: iShow!
+2017-12-08T09:28:15.594Z - normal: Simulator: InitScene: 30.375ms
+2017-12-08T09:28:15.595Z - normal: Simulator: AutoRelease: 0.72199999999998ms
+2017-12-08T09:28:15.596Z - normal: Simulator: Destroy: 0.08400000000006003ms
+2017-12-08T09:28:15.608Z - normal: Simulator: AttachPersist: 0.009000000000014552ms
+2017-12-08T09:28:15.860Z - normal: Simulator: jb=true
+2017-12-08T09:28:15.861Z - normal: Simulator: this.gameToken = 88c8afd5a29d5e27e4066f1f9eda5102-12-1576-2999
+2017-12-08T09:28:15.861Z - normal: Simulator: this.headerToken = 3709660283
+2017-12-08T09:28:15.861Z - normal: Simulator: request-----------data = {}
+2017-12-08T09:28:15.920Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:28:15.921Z - normal: Simulator: In the constructor of HttpClient!
+2017-12-08T09:28:15.925Z - normal: Simulator: 没有走淘宝SDK
+2017-12-08T09:28:16.042Z - normal: Simulator: Activate: 385.93000000000006ms
+2017-12-08T09:28:16.178Z - normal: Simulator: ny=-2161
+2017-12-08T09:28:16.346Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:28:16.352Z - normal: Simulator: data = {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":[],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"1200","date":1512460638716,"msg":"恭喜玩家#{user} 中1200豆","payAmount":"500","type":"0","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/17:28:15:765","poolBouns":92166049,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}, cmd = 100
+2017-12-08T09:28:16.353Z - normal: Simulator: {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":[],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"1200","date":1512460638716,"msg":"恭喜玩家#{user} 中1200豆","payAmount":"500","type":"0","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/17:28:15:765","poolBouns":92166049,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}
+2017-12-08T09:28:16.355Z - normal: Simulator: marqueeInfos恭喜玩家#{user} 中1200豆
+2017-12-08T09:28:16.355Z - normal: Simulator: netCallback cmd=100es=0msg=success
+2017-12-08T09:28:16.379Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:16.380Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:16.381Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:16.381Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:16.381Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:16.382Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:16.382Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:16.383Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:16.383Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:16.383Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:16.384Z - normal: Simulator: skinssssssss
+2017-12-08T09:28:16.772Z - normal: Simulator: HttpClient::destroyInstance begin
+2017-12-08T09:28:16.772Z - normal: Simulator: HttpClient destructor
+2017-12-08T09:28:16.773Z - normal: Simulator: HttpClient::destroyInstance() finished!
+2017-12-08T09:28:16.797Z - normal: Simulator: basic_object_finalize 0xf02a820 ...
+2017-12-08T09:28:16.875Z - normal: Simulator: basic_object_finalize 0xbce26a0 ...
+2017-12-08T09:28:16.876Z - normal: Simulator: jsbindings: finalizing JS object 0xbce26d0 (WebSocket)
+2017-12-08T09:28:16.876Z - normal: Simulator: jsbindings: finalizing JS object 0xbce2700 (SocketIO)
+2017-12-08T09:28:16.877Z - normal: Simulator: JavaScriptObjCBridge_finalize 0xbce2790 ...
+2017-12-08T09:28:16.878Z - normal: Simulator: JavaScriptObjCBridge_finalize 0xbce2a00 ...
+2017-12-08T09:28:31.744Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 695.00
+2017-12-08T09:28:31.745Z - normal: Simulator: FRAME SCALE = 0.25
+2017-12-08T09:28:31.753Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2017-12-08T09:28:31.960Z - normal: Simulator: 
+2017-12-08T09:28:31.960Z - normal: Simulator: {
+2017-12-08T09:28:31.961Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-12-08T09:28:31.961Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-12-08T09:28:31.962Z - normal: Simulator: 	cocos2d.x.version: 1.6.1
+2017-12-08T09:28:31.963Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2017-12-08T09:28:31.963Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-12-08T09:28:31.964Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2017-12-08T09:28:31.964Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-12-08T09:28:31.965Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-12-08T09:28:31.965Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-12-08T09:28:31.966Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-12-08T09:28:31.966Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-12-08T09:28:31.967Z - normal: Simulator: 	gl.max_texture_units: 16
+2017-12-08T09:28:31.967Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-12-08T09:28:31.968Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-12-08T09:28:31.969Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-12-08T09:28:31.969Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.17
+2017-12-08T09:28:31.970Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-12-08T09:28:31.970Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-12-08T09:28:31.970Z - normal: Simulator: }
+2017-12-08T09:28:31.971Z - normal: Simulator: 
+2017-12-08T09:28:31.971Z - normal: Simulator: 
+2017-12-08T09:28:31.971Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-12-08T09:28:31.972Z - normal: Simulator: Project Config:
+2017-12-08T09:28:31.972Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2017-12-08T09:28:31.972Z - normal: Simulator:     writable path: $(PROJDIR)/
+2017-12-08T09:28:31.973Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2017-12-08T09:28:31.974Z - normal: Simulator:     frame size: 1080 x 1660
+2017-12-08T09:28:31.974Z - normal: Simulator:     frame scale: 0.25
+2017-12-08T09:28:31.975Z - normal: Simulator:     show console: NO
+2017-12-08T09:28:31.975Z - normal: Simulator:     write debug log: NO ()
+2017-12-08T09:28:31.975Z - normal: Simulator:     listen: 
+2017-12-08T09:28:31.976Z - normal: Simulator:     debugger: none
+2017-12-08T09:28:31.976Z - normal: Simulator:     add searching path:
+2017-12-08T09:28:31.977Z - normal: Simulator: 
+2017-12-08T09:28:31.978Z - normal: Simulator: 
+2017-12-08T09:28:31.979Z - normal: Simulator: 
+2017-12-08T09:28:31.980Z - normal: Simulator: ------------------------------------------------
+2017-12-08T09:28:31.980Z - normal: Simulator: LOAD Js FILE: main.js
+2017-12-08T09:28:31.981Z - normal: Simulator: ------------------------------------------------
+2017-12-08T09:28:32.057Z - normal: Simulator: Cocos2d-x-lite v1.6.0
+2017-12-08T09:28:32.700Z - normal: Simulator: iShow!
+2017-12-08T09:28:33.461Z - normal: Simulator: InitScene: 30.44399999999996ms
+2017-12-08T09:28:33.504Z - normal: Simulator: AutoRelease: 0.6800000000000637ms
+2017-12-08T09:28:33.506Z - normal: Simulator: Destroy: 0.07899999999995089ms
+2017-12-08T09:28:33.507Z - normal: Simulator: AttachPersist: 0.009000000000014552ms
+2017-12-08T09:28:33.740Z - normal: Simulator: jb=true
+2017-12-08T09:28:33.740Z - normal: Simulator: this.gameToken = 88c8afd5a29d5e27e4066f1f9eda5102-12-1576-2999
+2017-12-08T09:28:33.740Z - normal: Simulator: this.headerToken = 3709660283
+2017-12-08T09:28:33.741Z - normal: Simulator: request-----------data = {}
+2017-12-08T09:28:33.744Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:28:33.744Z - normal: Simulator: In the constructor of HttpClient!
+2017-12-08T09:28:33.745Z - normal: Simulator: 没有走淘宝SDK
+2017-12-08T09:28:33.813Z - normal: Simulator: Activate: 304.6139999999998ms
+2017-12-08T09:28:33.967Z - normal: Simulator: ny=-2161
+2017-12-08T09:28:33.991Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:28:33.993Z - normal: Simulator: data = {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":[],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"1200","date":1512460638716,"msg":"恭喜玩家#{user} 中1200豆","payAmount":"500","type":"0","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/17:28:33:432","poolBouns":92166049,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}, cmd = 100
+2017-12-08T09:28:33.996Z - normal: Simulator: {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":[],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"1200","date":1512460638716,"msg":"恭喜玩家#{user} 中1200豆","payAmount":"500","type":"0","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/17:28:33:432","poolBouns":92166049,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}
+2017-12-08T09:28:33.997Z - normal: Simulator: marqueeInfos恭喜玩家#{user} 中1200豆
+2017-12-08T09:28:33.998Z - normal: Simulator: netCallback cmd=100es=0msg=success
+2017-12-08T09:28:34.022Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:34.023Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:34.023Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:34.024Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:34.024Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:34.024Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:34.044Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:34.045Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:34.046Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:34.047Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:34.047Z - normal: Simulator: skinssssssss
+2017-12-08T09:28:36.096Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:28:36.096Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:28:36.113Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:28:37.623Z - normal: Simulator: request-----------data = {"gameType":0,"ticketNo":"","step":0,"mulriple":10,"lineNum":50,"playTime":"2017/12/08/17:28:33:432"}
+2017-12-08T09:28:38.139Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:28:38.140Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:28:38.140Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:28:38.141Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:28:38.458Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:28:38.460Z - normal: Simulator: data = {"freeGameLeftTimes":0,"freeResult":[null],"hasFreeGame":0,"orderResult":[[]],"poolVisiable":1,"resultType":0,"specialResultLocation":[],"ticketData":[["F4","M2","F7","F4","F8","F4","F5","F7","F6","F7","WW","M3","F8","F5","F6","WW","F6","F4","F8","F7"]],"ticketNo":"117120817283720001_10003_10010_3709660283","totalBouns":0}, cmd = 101
+2017-12-08T09:28:38.460Z - normal: Simulator: netCallback cmd=101es=0msg=success
+2017-12-08T09:28:40.192Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:28:40.193Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:28:40.194Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:28:42.215Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:28:42.215Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:28:42.217Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:28:43.867Z - normal: Simulator: request-----------data = {"ticketNo":"117120817283720001_10003_10010_3709660283","playTime":"2017/12/08/17:28:33:432"}
+2017-12-08T09:28:44.188Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:28:44.188Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:28:44.188Z - normal: Simulator: data = {"bonusAmount":"0","bonusData":"","bonusDesc":"","bonusStatus":"2","poolVisiable":1}, cmd = 102
+2017-12-08T09:28:44.189Z - normal: Simulator: netCallback cmd=102es=0msg=success
+2017-12-08T09:28:44.189Z - normal: Simulator: 结算游戏
+2017-12-08T09:28:44.253Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:28:44.253Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:28:44.255Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:28:46.304Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:28:46.304Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:28:46.304Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:28:48.009Z - normal: Simulator: HttpClient::destroyInstance begin
+2017-12-08T09:28:48.009Z - normal: Simulator: HttpClient destructor
+2017-12-08T09:28:48.010Z - normal: Simulator: HttpClient::destroyInstance() finished!
+2017-12-08T09:28:48.030Z - normal: Simulator: basic_object_finalize 0x100297f0 ...
+2017-12-08T09:28:48.030Z - normal: Simulator: basic_object_finalize 0x10044640 ...
+2017-12-08T09:28:48.030Z - normal: Simulator: basic_object_finalize 0x10044730 ...
+2017-12-08T09:28:48.031Z - normal: Simulator: basic_object_finalize 0x10044790 ...
+2017-12-08T09:28:48.031Z - normal: Simulator: basic_object_finalize 0x10044a00 ...
+2017-12-08T09:28:48.031Z - normal: Simulator: basic_object_finalize 0x1005a160 ...
+2017-12-08T09:28:48.032Z - normal: Simulator: basic_object_finalize 0x1005abe0 ...
+2017-12-08T09:28:48.033Z - normal: Simulator: basic_object_finalize 0x1005aca0 ...
+2017-12-08T09:28:48.033Z - normal: Simulator: basic_object_finalize 0x1005ad00 ...
+2017-12-08T09:28:48.114Z - normal: Simulator: basic_object_finalize 0xcce26a0 ...
+2017-12-08T09:28:48.114Z - normal: Simulator: jsbindings: finalizing JS object 0xcce26d0 (WebSocket)
+2017-12-08T09:28:48.115Z - normal: Simulator: jsbindings: finalizing JS object 0xcce2700 (SocketIO)
+2017-12-08T09:28:48.115Z - normal: Simulator: JavaScriptObjCBridge_finalize 0xcce2790 ...
+2017-12-08T09:28:48.115Z - normal: Simulator: JavaScriptObjCBridge_finalize 0xcce2a00 ...
+2017-12-08T09:28:51.257Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 695.00
+2017-12-08T09:28:51.258Z - normal: Simulator: FRAME SCALE = 0.25
+2017-12-08T09:28:51.258Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2017-12-08T09:28:51.447Z - normal: Simulator: 
+2017-12-08T09:28:51.447Z - normal: Simulator: {
+2017-12-08T09:28:51.448Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-12-08T09:28:51.448Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-12-08T09:28:51.449Z - normal: Simulator: 	cocos2d.x.version: 1.6.1
+2017-12-08T09:28:51.449Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2017-12-08T09:28:51.450Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-12-08T09:28:51.450Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2017-12-08T09:28:51.450Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-12-08T09:28:51.451Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-12-08T09:28:51.451Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-12-08T09:28:51.452Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-12-08T09:28:51.452Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-12-08T09:28:51.452Z - normal: Simulator: 	gl.max_texture_units: 16
+2017-12-08T09:28:51.453Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-12-08T09:28:51.453Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-12-08T09:28:51.454Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-12-08T09:28:51.454Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.17
+2017-12-08T09:28:51.454Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-12-08T09:28:51.455Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-12-08T09:28:51.455Z - normal: Simulator: }
+2017-12-08T09:28:51.456Z - normal: Simulator: 
+2017-12-08T09:28:51.456Z - normal: Simulator: 
+2017-12-08T09:28:51.456Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-12-08T09:28:51.457Z - normal: Simulator: Project Config:
+2017-12-08T09:28:51.457Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2017-12-08T09:28:51.457Z - normal: Simulator:     writable path: $(PROJDIR)/
+2017-12-08T09:28:51.458Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2017-12-08T09:28:51.458Z - normal: Simulator:     frame size: 1080 x 1660
+2017-12-08T09:28:51.458Z - normal: Simulator:     frame scale: 0.25
+2017-12-08T09:28:51.459Z - normal: Simulator:     show console: NO
+2017-12-08T09:28:51.459Z - normal: Simulator:     write debug log: NO ()
+2017-12-08T09:28:51.459Z - normal: Simulator:     listen: 
+2017-12-08T09:28:51.459Z - normal: Simulator:     debugger: none
+2017-12-08T09:28:51.460Z - normal: Simulator:     add searching path:
+2017-12-08T09:28:51.517Z - normal: Simulator: ------------------------------------------------
+2017-12-08T09:28:51.518Z - normal: Simulator: LOAD Js FILE: main.js
+2017-12-08T09:28:51.518Z - normal: Simulator: ------------------------------------------------
+2017-12-08T09:28:51.544Z - normal: Simulator: Cocos2d-x-lite v1.6.0
+2017-12-08T09:28:52.007Z - normal: Simulator: iShow!
+2017-12-08T09:28:52.928Z - normal: Simulator: InitScene: 39.84500000000003ms
+2017-12-08T09:28:52.929Z - normal: Simulator: AutoRelease: 0.7200000000000273ms
+2017-12-08T09:28:52.929Z - normal: Simulator: Destroy: 0.08100000000013097ms
+2017-12-08T09:28:52.930Z - normal: Simulator: AttachPersist: 0.010999999999967258ms
+2017-12-08T09:28:53.218Z - normal: Simulator: jb=true
+2017-12-08T09:28:53.219Z - normal: Simulator: this.gameToken = 88c8afd5a29d5e27e4066f1f9eda5102-12-1576-2999
+2017-12-08T09:28:53.220Z - normal: Simulator: this.headerToken = 3709660283
+2017-12-08T09:28:53.220Z - normal: Simulator: request-----------data = {}
+2017-12-08T09:28:53.221Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:28:53.221Z - normal: Simulator: In the constructor of HttpClient!
+2017-12-08T09:28:53.222Z - normal: Simulator: 没有走淘宝SDK
+2017-12-08T09:28:53.230Z - normal: Simulator: Activate: 300.6419999999998ms
+2017-12-08T09:28:53.425Z - normal: Simulator: ny=-2161
+2017-12-08T09:28:53.490Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:28:53.497Z - normal: Simulator: data = {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":[],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"1200","date":1512460638716,"msg":"恭喜玩家#{user} 中1200豆","payAmount":"500","type":"0","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/17:28:52:931","poolBouns":92166549,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}, cmd = 100
+2017-12-08T09:28:53.513Z - normal: Simulator: {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":[],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"1200","date":1512460638716,"msg":"恭喜玩家#{user} 中1200豆","payAmount":"500","type":"0","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/17:28:52:931","poolBouns":92166549,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}
+2017-12-08T09:28:53.513Z - normal: Simulator: marqueeInfos恭喜玩家#{user} 中1200豆
+2017-12-08T09:28:53.514Z - normal: Simulator: netCallback cmd=100es=0msg=success
+2017-12-08T09:28:53.518Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:53.573Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:53.574Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:53.574Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:53.574Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:53.575Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:53.575Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:53.576Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:53.577Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:53.577Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2017-12-08T09:28:53.577Z - normal: Simulator: skinssssssss
+2017-12-08T09:28:55.586Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:28:55.586Z - normal: Simulator: request-----------data = {"gameType":0,"ticketNo":"","step":0,"mulriple":1,"lineNum":50,"playTime":"2017/12/08/17:28:52:931"}
+2017-12-08T09:28:55.588Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:28:55.589Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:28:55.591Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:28:55.990Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:28:55.991Z - normal: Simulator: data = {"freeGameLeftTimes":0,"freeResult":[null],"hasFreeGame":0,"orderResult":[[{"amount":50000,"awardType":2,"num":20,"picCode":"F8"}]],"poolVisiable":1,"resultType":2,"specialResultLocation":[],"ticketData":[["F8","F8","F8","F8","F8","F8","F8","F8","F8","F8","F8","F8","F8","F8","F8","F8","F8","F8","F8","F8"]],"ticketNo":"117120817285507701_10003_10010_3709660283","totalBouns":50000}, cmd = 101
+2017-12-08T09:28:55.992Z - normal: Simulator: netCallback cmd=101es=0msg=success
+2017-12-08T09:28:57.634Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:28:57.635Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:28:57.635Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:28:59.671Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:28:59.671Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:28:59.671Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:29:01.720Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:29:01.721Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:29:01.721Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:29:03.735Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:29:03.735Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:29:03.737Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:29:03.910Z - normal: Simulator: request-----------data = {"ticketNo":"117120817285507701_10003_10010_3709660283","playTime":"2017/12/08/17:28:52:931"}
+2017-12-08T09:29:04.304Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:29:04.304Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:29:04.305Z - normal: Simulator: data = {"bonusAmount":"50000","bonusData":"","bonusDesc":"","bonusStatus":"1","poolVisiable":1}, cmd = 102
+2017-12-08T09:29:04.305Z - normal: Simulator: netCallback cmd=102es=0msg=success
+2017-12-08T09:29:04.321Z - normal: Simulator: 结算游戏
+2017-12-08T09:29:05.779Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:29:05.779Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:29:05.780Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:29:07.817Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:29:07.817Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:29:07.819Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:29:09.875Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:29:09.875Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:29:09.876Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:29:11.863Z - normal: Simulator: request-----------data = {"gameType":0,"ticketNo":"","step":0,"mulriple":10,"lineNum":50,"playTime":"2017/12/08/17:28:52:931"}
+2017-12-08T09:29:11.928Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:29:11.928Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:29:11.929Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:29:11.929Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:29:12.107Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:29:12.135Z - normal: Simulator: data = {"freeGameLeftTimes":0,"freeResult":[null],"hasFreeGame":0,"orderResult":[[]],"poolVisiable":1,"resultType":0,"specialResultLocation":[],"ticketData":[["F7","F8","F8","F4","F6","F6","F6","F8","F7","F8","F4","F8","M1","F8","F4","F5","M3","F5","M3","F7"]],"ticketNo":"117120817291132801_10003_10010_3709660283","totalBouns":0}, cmd = 101
+2017-12-08T09:29:12.136Z - normal: Simulator: netCallback cmd=101es=0msg=success
+2017-12-08T09:29:13.963Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:29:13.964Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:29:13.965Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:29:16.019Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:29:16.019Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:29:16.019Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:29:17.572Z - normal: Simulator: request-----------data = {"ticketNo":"117120817291132801_10003_10010_3709660283","playTime":"2017/12/08/17:28:52:931"}
+2017-12-08T09:29:17.739Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:29:17.740Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:29:17.740Z - normal: Simulator: data = {"bonusAmount":"0","bonusData":"","bonusDesc":"","bonusStatus":"2","poolVisiable":1}, cmd = 102
+2017-12-08T09:29:17.741Z - normal: Simulator: netCallback cmd=102es=0msg=success
+2017-12-08T09:29:17.741Z - normal: Simulator: 结算游戏
+2017-12-08T09:29:18.070Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:29:18.071Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:29:18.071Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:29:20.123Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:29:20.123Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:29:20.123Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:29:21.926Z - normal: Simulator: HttpClient::destroyInstance begin
+2017-12-08T09:29:21.926Z - normal: Simulator: HttpClient destructor
+2017-12-08T09:29:21.926Z - normal: Simulator: HttpClient::destroyInstance() finished!
+2017-12-08T09:29:21.946Z - normal: Simulator: basic_object_finalize 0x1d8287f0 ...
+2017-12-08T09:29:21.947Z - normal: Simulator: basic_object_finalize 0x1d843610 ...
+2017-12-08T09:29:21.947Z - normal: Simulator: basic_object_finalize 0x1d843670 ...
+2017-12-08T09:29:21.948Z - normal: Simulator: basic_object_finalize 0x1d8438e0 ...
+2017-12-08T09:29:21.948Z - normal: Simulator: basic_object_finalize 0x1d85a3a0 ...
+2017-12-08T09:29:21.949Z - normal: Simulator: basic_object_finalize 0x1d85ac70 ...
+2017-12-08T09:29:21.949Z - normal: Simulator: basic_object_finalize 0x1d85acd0 ...
+2017-12-08T09:29:21.950Z - normal: Simulator: basic_object_finalize 0x1d85ad30 ...
+2017-12-08T09:29:21.950Z - normal: Simulator: basic_object_finalize 0x1d85f580 ...
+2017-12-08T09:29:21.950Z - normal: Simulator: basic_object_finalize 0x1d85f6d0 ...
+2017-12-08T09:29:21.951Z - normal: Simulator: basic_object_finalize 0x1d85f760 ...
+2017-12-08T09:29:21.951Z - normal: Simulator: basic_object_finalize 0x1d85f7f0 ...
+2017-12-08T09:29:21.951Z - normal: Simulator: basic_object_finalize 0x1d85f850 ...
+2017-12-08T09:29:21.951Z - normal: Simulator: basic_object_finalize 0x1d85f970 ...
+2017-12-08T09:29:21.952Z - normal: Simulator: basic_object_finalize 0x1d873790 ...
+2017-12-08T09:29:21.952Z - normal: Simulator: basic_object_finalize 0x1d873b50 ...
+2017-12-08T09:29:21.952Z - normal: Simulator: basic_object_finalize 0x1d873c10 ...
+2017-12-08T09:29:21.952Z - normal: Simulator: basic_object_finalize 0x1d873c70 ...
+2017-12-08T09:29:22.009Z - normal: Simulator: basic_object_finalize 0x1a4e26a0 ...
+2017-12-08T09:29:22.009Z - normal: Simulator: jsbindings: finalizing JS object 0x1a4e26d0 (WebSocket)
+2017-12-08T09:29:22.010Z - normal: Simulator: jsbindings: finalizing JS object 0x1a4e2700 (SocketIO)
+2017-12-08T09:29:22.010Z - normal: Simulator: JavaScriptObjCBridge_finalize 0x1a4e2790 ...
+2017-12-08T09:29:22.011Z - normal: Simulator: JavaScriptObjCBridge_finalize 0x1a4e2a00 ...
+2017-12-08T09:37:23.642Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 694.00
+2017-12-08T09:37:23.645Z - normal: Simulator: FRAME SCALE = 0.25
+2017-12-08T09:37:23.645Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2017-12-08T09:37:23.810Z - normal: Simulator: 
+2017-12-08T09:37:23.811Z - normal: Simulator: {
+2017-12-08T09:37:23.811Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-12-08T09:37:23.811Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-12-08T09:37:23.812Z - normal: Simulator: 	cocos2d.x.version: 1.6.1
+2017-12-08T09:37:23.812Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2017-12-08T09:37:23.812Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-12-08T09:37:23.812Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 6100
+2017-12-08T09:37:23.813Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-12-08T09:37:23.813Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-12-08T09:37:23.813Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-12-08T09:37:23.814Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-12-08T09:37:23.814Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-12-08T09:37:23.814Z - normal: Simulator: 	gl.max_texture_units: 16
+2017-12-08T09:37:23.815Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-12-08T09:37:23.815Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-12-08T09:37:23.815Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-12-08T09:37:23.816Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.25.17
+2017-12-08T09:37:23.816Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-12-08T09:37:23.816Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-12-08T09:37:23.817Z - normal: Simulator: }
+2017-12-08T09:37:23.817Z - normal: Simulator: 
+2017-12-08T09:37:23.817Z - normal: Simulator: 
+2017-12-08T09:37:23.818Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-12-08T09:37:23.818Z - normal: Simulator: Project Config:
+2017-12-08T09:37:23.819Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2017-12-08T09:37:23.819Z - normal: Simulator:     writable path: $(PROJDIR)/
+2017-12-08T09:37:23.819Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2017-12-08T09:37:23.820Z - normal: Simulator:     frame size: 1080 x 1660
+2017-12-08T09:37:23.820Z - normal: Simulator:     frame scale: 0.25
+2017-12-08T09:37:23.821Z - normal: Simulator:     show console: NO
+2017-12-08T09:37:23.821Z - normal: Simulator:     write debug log: NO ()
+2017-12-08T09:37:23.821Z - normal: Simulator:     listen: 
+2017-12-08T09:37:23.822Z - normal: Simulator:     debugger: none
+2017-12-08T09:37:23.822Z - normal: Simulator:     add searching path:
+2017-12-08T09:37:23.912Z - normal: Simulator: ------------------------------------------------
+2017-12-08T09:37:23.913Z - normal: Simulator: LOAD Js FILE: main.js
+2017-12-08T09:37:23.913Z - normal: Simulator: ------------------------------------------------
+2017-12-08T09:37:23.925Z - normal: Simulator: Cocos2d-x-lite v1.6.0
+2017-12-08T09:37:24.435Z - normal: Simulator: iShow!
+2017-12-08T09:37:25.363Z - normal: Simulator: InitScene: 26.317999999999984ms
+2017-12-08T09:37:25.365Z - normal: Simulator: AutoRelease: 0.6649999999999636ms
+2017-12-08T09:37:25.366Z - normal: Simulator: Destroy: 0.08200000000010732ms
+2017-12-08T09:37:25.367Z - normal: Simulator: AttachPersist: 0.010999999999967258ms
+2017-12-08T09:37:25.676Z - normal: Simulator: jb=true
+2017-12-08T09:37:25.676Z - normal: Simulator: this.gameToken = 88c8afd5a29d5e27e4066f1f9eda5102-12-1576-2999
+2017-12-08T09:37:25.677Z - normal: Simulator: this.headerToken = 3709660283
+2017-12-08T09:37:25.677Z - normal: Simulator: request-----------data = {}
+2017-12-08T09:37:25.701Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:37:25.702Z - normal: Simulator: In the constructor of HttpClient!
+2017-12-08T09:37:25.703Z - normal: Simulator: 没有走淘宝SDK
+2017-12-08T09:37:25.716Z - normal: Simulator: Activate: 351.721ms
+2017-12-08T09:37:25.922Z - normal: Simulator: ny=-2161
+2017-12-08T09:37:26.002Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:37:26.009Z - normal: Simulator: data = {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":["恭喜 $3709660283$ 8分钟前中得奖池大奖##50000豆"],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"50000","date":1512725343713,"msg":"喜从天降！玩家#{user}触发累积大奖赢得50000豆","payAmount":"50","type":"2","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/17:37:25:410","poolBouns":92117099,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}, cmd = 100
+2017-12-08T09:37:26.010Z - normal: Simulator: {"currency":"豆","currencyIcon":"","defaultLineNum":50,"defaultMulriple":10,"extend":"{\"Texture/cubes/cube.png\":\"https://gw.alicdn.com/tfs/TB1JZT1SXXXXXcmXFXXXXXXXXXX-512-1024.png\"}","gameIcon":"http://","gameName":"丛林冒险","helpRule":{"rulePics":["https://gw.alicdn.com/tfs/TB1dgOqcPihSKJjy0FlXXadEXXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1v2GicPihSKJjy0FiXXcuiFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1HZ1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1qjHxb2xNTKJjy0FjXXX6yVXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1uLincGagSKJjy0FgXXcRqFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1LI1gcPihSKJjy0FfXXbGzFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1PTSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1bBCjcGagSKJjy0FhXXcrbFXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1GDSbcPihSKJjy0FeXXbJtpXa-1080-2048.jpg","https://gw.alicdn.com/tfs/TB1fzLxb2xNTKJjy0FjXXX6yVXa-1080-1310.jpg"]},"historyPool":["恭喜 $3709660283$ 8分钟前中得奖池大奖##50000豆"],"lineNums":[10,20,30,40,50],"marqueeInfoList":[{"bonusAmount":"50000","date":1512725343713,"msg":"喜从天降！玩家#{user}触发累积大奖赢得50000豆","payAmount":"50","type":"2","uid":3709660283}],"mulriples":[1,2,5,10,20],"playTime":"2017/12/08/17:37:25:410","poolBouns":92117099,"poolRule":[{"bet":1,"floatRate":0.0,"maxBouns":50000,"minBouns":50000},{"bet":2,"floatRate":0.1,"maxBouns":0,"minBouns":200000},{"bet":5,"floatRate":0.3,"maxBouns":0,"minBouns":600000},{"bet":10,"floatRate":0.8,"maxBouns":0,"minBouns":1600000},{"bet":20,"floatRate":0.0,"maxBouns":0,"minBouns":0}],"poolVisiable":1,"recoverData":"","skin":{"broadCastPosAndWidth":[-29,-25,935],"skinId":"A","betRgb":[[246,213,159],[254,239,214],[198,198,198],[233,233,233]],"skinUrl":"waimai","fontColor":[150,75,52]},"status":0,"tip":{"content":"xxxxd","url":"http://"}}
+2017-12-08T09:37:26.012Z - normal: Simulator: marqueeInfos喜从天降！玩家#{user}触发累积大奖赢得50000豆
+2017-12-08T09:37:26.012Z - normal: Simulator: netCallback cmd=100es=0msg=success
+2017-12-08T09:37:26.014Z - normal: Simulator: skinssssssss
+2017-12-08T09:37:28.097Z - normal: Simulator: [XMLHttpRequest] POST http://211.151.5.131:14030/gateway/process
+2017-12-08T09:37:28.097Z - normal: Simulator: onHttpRequestCompleted.xhr.status=200
+2017-12-08T09:37:28.098Z - normal: Simulator: netCallback cmd=104es=0msg=success
+2017-12-08T09:37:29.063Z - normal: Simulator: HttpClient::destroyInstance begin
+2017-12-08T09:37:29.063Z - normal: Simulator: HttpClient destructor
+2017-12-08T09:37:29.064Z - normal: Simulator: HttpClient::destroyInstance() finished!
+2017-12-08T09:37:29.091Z - normal: Simulator: basic_object_finalize 0x1012a820 ...
+2017-12-08T09:37:29.091Z - normal: Simulator: basic_object_finalize 0x10144490 ...
+2017-12-08T09:37:29.149Z - normal: Simulator: basic_object_finalize 0xcde26a0 ...
+2017-12-08T09:37:29.152Z - normal: Simulator: jsbindings: finalizing JS object 0xcde26d0 (WebSocket)
+2017-12-08T09:37:29.152Z - normal: Simulator: jsbindings: finalizing JS object 0xcde2700 (SocketIO)
+2017-12-08T09:37:29.153Z - normal: Simulator: JavaScriptObjCBridge_finalize 0xcde2790 ...
+2017-12-08T09:37:29.153Z - normal: Simulator: JavaScriptObjCBridge_finalize 0xcde2a00 ...
+2017-12-08T09:58:13.622Z - info: shutdown preview server

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wait",
+    "texture": "e808ef3c-b6e6-40f8-b4d5-f101e723061d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      47,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      47,
+      47
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bj_ew_qukankan",
+    "texture": "8ba71de8-8b11-4d0a-b6fe-abe6e3d4ff4c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      61
+    ]
+  }
+}

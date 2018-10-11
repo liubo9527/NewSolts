@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bj_zj_bei_3",
+    "texture": "0894f192-3de5-49b9-9524-6f6a87e473bd",
+    "atlas": "",
+    "rect": [
+      6,
+      2,
+      153,
+      153
+    ],
+    "offset": [
+      0,
+      4
+    ],
+    "originalSize": [
+      165,
+      165
+    ]
+  }
+}

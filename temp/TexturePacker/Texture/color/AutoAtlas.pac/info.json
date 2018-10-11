@@ -1,0 +1,26 @@
+{
+  "packedTextures": [
+    {
+      "path": "/Users/liubo/Desktop/NewSlots/temp/TexturePacker/Texture/color/AutoAtlas.pac/AutoAtlas-1.png",
+      "name": "AutoAtlas-1.png",
+      "size": "1024x1024"
+    },
+    {
+      "path": "/Users/liubo/Desktop/NewSlots/temp/TexturePacker/Texture/color/AutoAtlas.pac/AutoAtlas-2.png",
+      "name": "AutoAtlas-2.png",
+      "size": "1024x1024"
+    },
+    {
+      "path": "/Users/liubo/Desktop/NewSlots/temp/TexturePacker/Texture/color/AutoAtlas.pac/AutoAtlas-3.png",
+      "name": "AutoAtlas-3.png",
+      "size": "1024x1024"
+    }
+  ],
+  "unpackedTextures": [
+    {
+      "path": "/Users/liubo/Desktop/NewSlots/assets/Texture/color/bj_fc_facai.png",
+      "name": "bj_fc_facai.png",
+      "size": "1204x581"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "packedTextures": [
+    {
+      "path": "/Users/liubo/Desktop/NewSlots/temp/TexturePacker/Texture/aniRes/AutoAtlas.pac/AutoAtlas-1.png",
+      "name": "AutoAtlas-1.png",
+      "size": "1024x1024"
+    },
+    {
+      "path": "/Users/liubo/Desktop/NewSlots/temp/TexturePacker/Texture/aniRes/AutoAtlas.pac/AutoAtlas-2.png",
+      "name": "AutoAtlas-2.png",
+      "size": "1024x1024"
+    },
+    {
+      "path": "/Users/liubo/Desktop/NewSlots/temp/TexturePacker/Texture/aniRes/AutoAtlas.pac/AutoAtlas-3.png",
+      "name": "AutoAtlas-3.png",
+      "size": "1024x1024"
+    }
+  ],
+  "unpackedTextures": []
+}

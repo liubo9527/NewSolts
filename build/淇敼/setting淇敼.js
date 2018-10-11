@@ -1,0 +1,1 @@
+"needLogin": "false","needTopBar": "true","title": "丛林冒险","ruleKey": "hilo-rule","gameId": 12, "needInterceptBack":true

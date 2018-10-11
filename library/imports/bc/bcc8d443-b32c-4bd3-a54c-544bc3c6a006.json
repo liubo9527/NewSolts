@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_ew_xiaotieshi",
+    "texture": "391162a7-8e40-4f7b-bc4e-0aaebe470bfb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      170,
+      56
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      171,
+      56
+    ]
+  }
+}

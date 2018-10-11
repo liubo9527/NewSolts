@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bj_js_zhongjiang",
+    "texture": "b4f3d3c6-698b-413e-8b0a-feafa28ecade",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      493,
+      157
+    ],
+    "offset": [
+      0.5,
+      2
+    ],
+    "originalSize": [
+      500,
+      161
+    ]
+  }
+}

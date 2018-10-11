@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bj_zj_xian",
+    "texture": "0a6bb496-b9b6-4168-a807-eb9484aaa95e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      120
+    ],
+    "capInsets": [
+      35,
+      40,
+      35,
+      44
+    ]
+  }
+}

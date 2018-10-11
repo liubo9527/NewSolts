@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "betAndPoolArea.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "bj_mf_muban": {
+      "__uuid__": "0de6925b-e76d-4105-9bb7-bb5aa0c668ca"
+    },
+    "bj_mf_qiziban": {
+      "__uuid__": "d54fba02-3674-459e-a74b-82b51dc5ae58"
+    },
+    "bj_tc_ban": {
+      "__uuid__": "9697e89a-173b-4a47-b7eb-eadbb734a038"
+    },
+    "bj_zj_bei_1": {
+      "__uuid__": "504174d6-f306-44be-b983-756bfeeff25d"
+    },
+    "bj_zj_bei_2": {
+      "__uuid__": "10632182-64de-4a14-9805-be42b5bca752"
+    },
+    "bj_zj_bei_3": {
+      "__uuid__": "4faf8ab7-5b86-4e3e-946e-0eaec401bf6b"
+    },
+    "bj_zj_bei_4": {
+      "__uuid__": "2b537280-aca4-4ddb-9b7d-8544a48c31b3"
+    },
+    "bj_zj_xian": {
+      "__uuid__": "88adade0-5412-4ea3-9524-2c9389c9f9d8"
+    },
+    "bt_bj_1ci": {
+      "__uuid__": "bde04257-bbd5-4795-af15-a6d66fa59ec4"
+    },
+    "bt_bj_1ci_3": {
+      "__uuid__": "b25dec88-ed1a-4cd1-b410-2f2eed386288"
+    },
+    "bt_bj_jiangchi": {
+      "__uuid__": "85afbbc3-e6c2-4ddb-a870-ab579962492a"
+    },
+    "bt_bj_zidong": {
+      "__uuid__": "9534019a-6bf5-4c56-9c51-d46aec291829"
+    },
+    "bt_tc_fou": {
+      "__uuid__": "a479f2c8-fdf0-48b0-87ba-6617627e8724"
+    },
+    "bt_tc_shi": {
+      "__uuid__": "1fc9ba76-074c-4ae6-856b-994a1196257c"
+    },
+    "bt_zj_xian": {
+      "__uuid__": "8564616f-0ed9-40f2-a1ca-f65a42bf2837"
+    },
+    "bt_zj_xian_3": {
+      "__uuid__": "cdb444ae-ceb2-44fb-9067-b5807088b730"
+    },
+    "zhangdanlalal": {
+      "__uuid__": "954654c5-c47f-4f51-b6aa-a03e4dcf6d2d"
+    }
+  }
+}

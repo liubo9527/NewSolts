@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bj_zj_titouyinying",
+    "texture": "5760be7f-dc3a-4040-bb06-eeca1f7a9ff6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      489,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      489,
+      89
+    ]
+  }
+}

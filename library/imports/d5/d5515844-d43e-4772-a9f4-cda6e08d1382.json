@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_bj_dou",
+    "texture": "82365e02-b9ab-4cfe-a92d-da20781c9a98",
+    "atlas": "",
+    "rect": [
+      16,
+      13,
+      39,
+      47
+    ],
+    "offset": [
+      1.5,
+      -2
+    ],
+    "originalSize": [
+      68,
+      69
+    ]
+  }
+}

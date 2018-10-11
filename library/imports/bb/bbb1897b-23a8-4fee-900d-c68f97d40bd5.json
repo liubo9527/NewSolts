@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bj_js_leijijiang",
+    "texture": "a5681d0a-550b-4b90-97ae-1fe8494b9b81",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      849,
+      157
+    ],
+    "offset": [
+      -0.5,
+      4
+    ],
+    "originalSize": [
+      850,
+      165
+    ]
+  }
+}

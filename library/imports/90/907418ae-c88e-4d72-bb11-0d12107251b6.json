@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhangdanlalal",
+    "texture": "7847999f-00a1-4893-8f20-e9d5305d16ca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      14,
+      6
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      14,
+      6
+    ]
+  }
+}

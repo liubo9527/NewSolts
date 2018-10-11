@@ -1,0 +1,207 @@
+{
+"skeleton": { "hash": "7QnRmcQ9IiV7gUdLqM+/5MVM+YU", "spine": "2.1.27", "width": 1562, "height": 721, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "1", "parent": "root", "x": 1.87, "y": -3.49, "scaleX": 7, "scaleY": 3 },
+	{ "name": "110002", "parent": "root", "y": 0.25 },
+	{ "name": "2", "parent": "root", "x": 1.87, "y": -9.11, "scaleX": 8, "scaleY": 3 }
+],
+"slots": [
+	{ "name": "丛林场景背景拆分", "bone": "root" },
+	{ "name": "bu", "bone": "root" },
+	{ "name": "3", "bone": "1", "attachment": "1" },
+	{ "name": "4", "bone": "2", "attachment": "2" },
+	{ "name": "110015", "bone": "110002" },
+	{ "name": "110014", "bone": "110002" },
+	{ "name": "110013", "bone": "110002" },
+	{ "name": "110012", "bone": "110002" },
+	{ "name": "110011", "bone": "110002" },
+	{ "name": "110010", "bone": "110002" },
+	{ "name": "110009", "bone": "110002" },
+	{ "name": "110008", "bone": "110002" },
+	{ "name": "110007", "bone": "110002" },
+	{ "name": "110006", "bone": "110002" },
+	{ "name": "110005", "bone": "110002" },
+	{ "name": "110004", "bone": "110002" },
+	{ "name": "110003", "bone": "110002", "attachment": "110002" },
+	{ "name": "110002", "bone": "root" },
+	{ "name": "root", "bone": "root" },
+	{ "name": "z", "bone": "root" },
+	{ "name": "tou", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"110003": {
+			"110002": { "x": 25.48, "y": -29.98, "scaleX": 11, "scaleY": 7, "width": 142, "height": 103 }
+		},
+		"110004": {
+			"110003": { "x": 22.48, "y": -28.11, "scaleX": 11, "scaleY": 7, "width": 142, "height": 103 }
+		},
+		"110005": {
+			"110004": { "x": 22.48, "y": -28.11, "scaleX": 11, "scaleY": 7, "width": 142, "height": 103 }
+		},
+		"110006": {
+			"110005": { "x": 22.48, "y": -28.11, "scaleX": 11, "scaleY": 7, "width": 142, "height": 103 }
+		},
+		"110007": {
+			"110006": { "x": 22.48, "y": -28.11, "scaleX": 11, "scaleY": 7, "width": 142, "height": 103 }
+		},
+		"110008": {
+			"110007": { "x": 22.48, "y": -28.11, "scaleX": 11, "scaleY": 7, "width": 142, "height": 103 }
+		},
+		"110009": {
+			"110008": { "x": 22.48, "y": -28.11, "scaleX": 11, "scaleY": 7, "width": 142, "height": 103 }
+		},
+		"110010": {
+			"110009": { "x": 22.48, "y": -28.11, "scaleX": 11, "scaleY": 7, "width": 142, "height": 103 }
+		},
+		"110011": {
+			"110010": { "x": 22.48, "y": -28.11, "scaleX": 11, "scaleY": 7, "width": 142, "height": 103 }
+		},
+		"110012": {
+			"110011": { "x": 22.48, "y": -28.11, "scaleX": 11, "scaleY": 7, "width": 142, "height": 103 }
+		},
+		"110013": {
+			"110012": { "x": 22.48, "y": -28.11, "scaleX": 11, "scaleY": 7, "width": 142, "height": 103 }
+		},
+		"110014": {
+			"110013": { "x": 22.48, "y": -28.11, "scaleX": 11, "scaleY": 7, "width": 142, "height": 103 }
+		},
+		"110015": {
+			"110014": { "x": 22.48, "y": -28.11, "scaleX": 11, "scaleY": 7, "width": 142, "height": 103 }
+		},
+		"3": {
+			"1": { "x": -1.87, "y": 1.87, "width": 161, "height": 89 }
+		},
+		"4": {
+			"2": { "x": -3.74, "y": 1.87, "width": 179, "height": 107 }
+		}
+	}
+},
+"animations": {
+	"animation2": {
+		"slots": {
+			"3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0666, "color": "ffffff80", "curve": "stepped" },
+					{ "time": 0.2666, "color": "ffffff80" },
+					{ "time": 0.3333, "color": "ffffff0b" }
+				]
+			},
+			"4": {
+				"color": [
+					{ "time": 0, "color": "ffffff05" },
+					{ "time": 0.0666, "color": "ffffffff" },
+					{ "time": 0.2, "color": "ffffff00" }
+				]
+			},
+			"110003": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "110002" },
+					{ "time": 0.0666, "name": null }
+				]
+			},
+			"110004": {
+				"attachment": [
+					{ "time": 0.0666, "name": null }
+				]
+			},
+			"110005": {
+				"attachment": [
+					{ "time": 0.0666, "name": "110004" },
+					{ "time": 0.1, "name": null }
+				]
+			},
+			"110006": {
+				"attachment": [
+					{ "time": 0.1, "name": "110005" },
+					{ "time": 0.1333, "name": null }
+				]
+			},
+			"110007": {
+				"attachment": [
+					{ "time": 0.1333, "name": "110006" },
+					{ "time": 0.1666, "name": null }
+				]
+			},
+			"110008": {
+				"attachment": [
+					{ "time": 0.1666, "name": "110007" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"110009": {
+				"attachment": [
+					{ "time": 0.2, "name": "110008" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"110010": {
+				"attachment": [
+					{ "time": 0.2333, "name": "110009" },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"110011": {
+				"attachment": [
+					{ "time": 0.2666, "name": "110010" },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"110012": {
+				"attachment": [
+					{ "time": 0.3, "name": "110011" },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"110013": {
+				"attachment": [
+					{ "time": 0.3333, "name": "110012" },
+					{ "time": 0.3666, "name": null }
+				]
+			},
+			"110014": {
+				"attachment": [
+					{ "time": 0.3666, "name": "110013" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"110015": {
+				"attachment": [
+					{ "time": 0.4, "name": "110014" },
+					{ "time": 0.4333, "name": null }
+				]
+			},
+			"tou": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"丛林场景背景拆分": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"2": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.0666, "x": 1.125, "y": 1.333 },
+					{ "time": 0.2, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"drawOrder": [
+			{
+				"time": 0,
+				"offsets": [
+					{ "slot": "4", "offset": 14 }
+				]
+			}
+		]
+	}
+}
+}

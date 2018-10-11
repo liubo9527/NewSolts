@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_bj_zidong",
+    "texture": "eddd93d5-5f2f-4b00-8875-748bf46ff292",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      466,
+      155
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      466,
+      157
+    ]
+  }
+}

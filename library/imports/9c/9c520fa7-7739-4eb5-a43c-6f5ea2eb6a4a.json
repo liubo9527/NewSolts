@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bj_fc_facai",
+    "texture": "5d84dc09-7346-43ee-8da2-e7c421e1ec79",
+    "atlas": "",
+    "rect": [
+      0,
+      35,
+      1006,
+      558
+    ],
+    "offset": [
+      0,
+      -14
+    ],
+    "originalSize": [
+      1006,
+      600
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bj_tc_ban",
+    "texture": "2a4cb327-a4d1-4d7c-9517-93f025c98206",
+    "atlas": "9e8025b0-0ae6-4594-8f6b-bc58038b02ee",
+    "rect": [
+      2,
+      2,
+      850,
+      447
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      850,
+      447
+    ]
+  }
+}

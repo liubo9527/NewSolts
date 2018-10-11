@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_bj_jiantou",
+    "texture": "7de136a8-bc0c-4b35-b6b5-bf725e06c0d1",
+    "atlas": "",
+    "rect": [
+      7,
+      7,
+      28,
+      24
+    ],
+    "offset": [
+      1,
+      1
+    ],
+    "originalSize": [
+      40,
+      40
+    ]
+  }
+}

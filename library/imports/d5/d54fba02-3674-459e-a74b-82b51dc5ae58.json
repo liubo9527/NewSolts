@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bj_mf_qiziban",
+    "texture": "2a4cb327-a4d1-4d7c-9517-93f025c98206",
+    "atlas": "9e8025b0-0ae6-4594-8f6b-bc58038b02ee",
+    "rect": [
+      2,
+      804,
+      1080,
+      217
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1080,
+      217
+    ],
+    "rotated": 1
+  }
+}

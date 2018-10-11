@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bj_zj_baoping",
+    "texture": "4798f241-03ae-441b-b9a8-3309c1c3b812",
+    "atlas": "",
+    "rect": [
+      5,
+      0,
+      1110,
+      232
+    ],
+    "offset": [
+      -2.5,
+      2.5
+    ],
+    "originalSize": [
+      1125,
+      237
+    ]
+  }
+}

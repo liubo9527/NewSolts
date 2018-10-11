@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_bj_jiangchi",
+    "texture": "c5660918-28c1-42d6-896c-7eae496f7917",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      70,
+      72
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      75,
+      75
+    ]
+  }
+}

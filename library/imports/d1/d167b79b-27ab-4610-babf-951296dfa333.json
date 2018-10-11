@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_gengduotouzhu",
+    "texture": "7b3c369e-b0fe-40b9-b4d3-2766b62d6b37",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      230,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      230,
+      48
+    ]
+  }
+}

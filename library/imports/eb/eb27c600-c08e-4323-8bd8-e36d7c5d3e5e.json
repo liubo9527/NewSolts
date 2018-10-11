@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_tc_shi",
+    "texture": "9c1a9855-2daf-42cb-b8c5-1b7330b7406e",
+    "atlas": "",
+    "rect": [
+      0,
+      4,
+      319,
+      118
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      319,
+      122
+    ]
+  }
+}
